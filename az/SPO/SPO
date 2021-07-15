@@ -1,0 +1,711 @@
+{ 
+   "name": "SPORT",
+   "author": "Fernado",
+   "url": "",
+   "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
+   "info": "",
+   "groups": [
+             { 
+         "name": "sport",
+          "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsporthd.png", 
+          "stations": [  
+
+		 {name:"ball24.tv",
+                  image:"https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
+                    url:"https://www.ball24.tv/allchannel/",
+                  "webviewType": "chrome", "embed": true },
+		{name:"ball365",
+                  image:"https://ball365.co/wp-content/themes/ball365/image/logo365.png",
+                    url:"https://ball365.co/channel/",
+                  "webviewType": "chrome", "embed": true },
+		{name:"warpballsod",
+                  image:"https://www.warpballsod.tv/wp-content/themes/ballsod/img/logo-b.png",
+                    url:"https://www.warpballsod.tv/play-channel/",
+                  "webviewType": "chrome", "embed": true },
+		{name:"doonung1234",
+                  image:"https://www.doonung1234.com/asset/web/img/logo.png",
+                    url:"https://www.doonung1234.com/match",
+                  "webviewType": "chrome", "embed": true },
+		{name:"wacth.tv",
+                  image:"https://wacth.tv/images/logo2.png",
+                    url:"https://wacth.tv/live-tv",
+                  "webviewType": "chrome", "embed": true },
+		{name:"fo1iptv",
+                  image:"https://fo1iptv.com/images/logo2.png",
+                    url:"https://fo1iptv.com/live-tv",
+                  "webviewType": "chrome", "embed": true },
+		{name:"chomfootball.com",
+                  image:"https://www.chomfootball.com/assets/dd02af30/img/chomfootball_logo.png",
+                    url:"https://www.chomfootball.com/",
+                  "webviewType": "chrome", "embed": true },
+		{name:"ballzaa.com",
+                  image:"https://www.ballzaa.com/img/config/B-1208365468173.png",
+                    url:"https://www.ballzaa.com/บอลซ่าดูบอลสด",
+                  "webviewType": "chrome", "embed": true },
+		{name:"andaman888th",
+                  image:"https://www.andaman888th.com/wp-content/uploads/2019/01/logoheader2.png",
+                    url:"https://www.andaman888th.com/ดูบอลออนไลน์/",
+                  "webviewType": "chrome", "embed": true },
+		{name:"liveballsod",
+                  image:"https://www.liveballsod.com/wp-content/uploads/2018/08/logo250.png",
+                    url:"https://www.liveballsod.com/",
+                  "webviewType": "chrome", "embed": true },
+		{name:"warpfootball",
+                  image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
+                    url:"https://www.warpfootball.games/",
+                  "webviewType": "chrome", "embed": true },
+		{name:"dooball66",
+                  image:"https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png",
+                    url:"https://dooball66.com/ดูบอลออนไลน์/",
+                  "webviewType": "chrome", "embed": true },
+		{name:"ball8k",
+                  image:"https://ball8k.com/assets/img/ball8k_logo.png",
+                    url:"https://ball8k.com/home",
+                  "webviewType": "chrome", "embed": true },
+                  { 
+               "name": "sporthd",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
+                "url": "https://www.ball24.tv/allchannel/?id=truesporthd", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            },
+		{ 
+               "name": "sporthd",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd/"
+            },
+		{ 
+               "name": "sporthd2",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",
+                "url": "https://www.ball24.tv/allchannel/?id=truesporthd2", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            },
+		{ 
+               "name": "sporthd2",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd2"
+            },
+              { 
+               "name": "sporthd3",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",
+                "url": "https://www.ball24.tv/allchannel/?id=truesporthd3", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            },
+		{ 
+               "name": "sporthd3",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd3"
+            },
+		{ 
+               "name": "sporthd4",
+                "image": "https://www.img06.xyz/assets/img/ch_logo/hd-tsport4.png",
+                "url": "https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8"
+            },
+		{ 
+               "name": "sporthd4",
+                "image": "https://www.img06.xyz/assets/img/ch_logo/hd-tsport4.png",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd4"
+            },
+		{ 
+               "name": "sporthd5",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesport5.png",
+                "url": "https://www.ball24.tv/allchannel/?id=truesport5"
+            },
+		{ 
+               "name": "sporthd7",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesport7.png",
+                "url": "https://www.ball24.tv/allchannel/?id=truesport7"
+            },
+		{ 
+               "name": "PL1",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd1/"
+            },
+		{ 
+               "name": "PL2",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd2/"
+            },
+		{ 
+               "name": "bein1",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
+                "url": "https://www.ball24.tv/allchannel/?id=bein1", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            },
+		{ 
+               "name": "bein2",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",
+                "url": "https://www.ball24.tv/allchannel/?id=bein2", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            },
+		{ 
+               "name": "skynetsport-hd",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/skynetsport-hd"
+            
+                  }, 
+		{ 
+               "name": "skynetsport-hd",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg",
+                "url": "http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8"
+            
+                  }, 
+		{ 
+               "name": "skynetsport1",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/skynetsport-1"
+            
+                  }, 
+		{ 
+               "name": "skynetsport1",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg",
+                "url": "http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8"
+            
+                  }, 
+		{ 
+               "name": "skynetsport2",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport2.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/skynetsport-2"
+            
+                  },
+		{ 
+               "name": "skynetsport2",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport2.jpg",
+                "url": "http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8"
+            
+                  },
+		{ 
+               "name": "skynetsport3",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport3.jpg",
+                "url": "http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8"
+            
+                  },
+		{ 
+               "name": "skynetsport3",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport3.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/skynetsport-3"
+            
+                  },
+		{ 
+               "name": "skynetsport4",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport4.jpg",
+                "url": "http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8"
+            
+                  },
+		{ 
+               "name": "skynetsport4",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport4.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/skynetsport-4"
+            
+                  },
+		{ 
+               "name": "skynetsport5",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport5.png",
+                "url": "http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8"
+            
+                  },
+		{ 
+               "name": "skynetsport5",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport5.png",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/skynetsport-5"
+            
+                  },
+		{ 
+               "name": "skynetsport6",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport6.png",
+                "url": "http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8"
+            
+                  },
+		{ 
+               "name": "skynetsport6",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport6.png",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/skynetsport-6"
+            
+                  },
+		{ 
+               "name": "asp1",
+                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/ball/asp1.png",
+                "url": "https://www.ball24.tv/allchannel/?id=astrosupersport", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  },
+		{
+		"name": "asp2",
+                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/ball/asp2.png",
+                "url": "https://www.ball24.tv/allchannel/?id=astrosupersport2", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  },
+		{
+		"name": "asp3",
+                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/ball/asp3.png",
+                "url": "https://www.ball24.tv/allchannel/?id=astrosupersport3", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  },
+		{
+		"name": "asp4",
+                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/ball/asp4.png",
+                "url": "https://www.ball24.tv/allchannel/?id=astrosupersport4", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  },
+		{ 
+               "name": "FOX1",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsporthd.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/foxsporthd"
+            
+                  }, 
+		{ 
+               "name": "FOX2",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport2.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/foxsport2"
+            
+                  }, 
+		{ 
+               "name": "FOX3",
+                "image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport3.jpg",
+                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/foxsport3"
+            
+                  }, 
+		{ 
+               "name": "digisport1",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/digisport1romania.png",
+                "url": "https://www.ball24.tv/allchannel/?id=digisport1romania", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "digisport2",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/digisport2romania.png",
+                "url": "https://www.ball24.tv/allchannel/?id=digisport2romania", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "digisport3",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/digisport3romania.png",
+                "url": "https://www.ball24.tv/allchannel/?id=digisport3romania", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "digisport4",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/digisport1romania.png",
+                "url": "https://www.ball24.tv/allchannel/?id=digisport4romania", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sportklub1",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png",
+                "url": "https://www.ball24.tv/allchannel/?id=sportklub1slovenia", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sportklub2",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub2slovenia.png",
+                "url": "https://www.ball24.tv/allchannel/?id=sportklub1slovenia", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sportklub3",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub3slovenia.png",
+                "url": "https://www.ball24.tv/allchannel/?id=sportklub3s2ovenia", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sportklub4",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub4slovenia.png",
+                "url": "https://www.ball24.tv/allchannel/?id=sportklub4slovenia", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "arenasport1",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",
+                "url": "https://www.ball24.tv/allchannel/?id=arenasport1serbia", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "arenasport2",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",
+                "url": "https://www.ball24.tv/allchannel/?id=arenasport2serbia", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "arenasport3",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",
+                "url": "https://www.ball24.tv/allchannel/?id=arenasport3serbia", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "arenasport4",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",
+                "url": "https://www.ball24.tv/allchannel/?id=arenasport4serbia", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "foxsport1nl",
+                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/ball/foxsport1nl.png",
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport1nl", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "foxsport2nl",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport2nl.png",
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport2nl", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "foxsport3nl",
+                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/ball/foxsport3nl.png",
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport3nl", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "foxsport4nl",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport4nl.png",
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport4nl", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "foxsport5nl",
+                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/ball/foxsport3nl.png",
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport5nl", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "beinsportsarabia1",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia1hd.png",
+                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "beinsportsarabia2",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia2hd.png",
+                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia2hd", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "beinsportsarabia3",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/beinsportsarabia3hd.png",
+                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia3hd", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "foxsport1US",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png",
+                "url": "https://www.ball24.tv/allchannel/?id=foxsports1usa", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "foxsport2US",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport2.png",
+                "url": "https://www.warpfootball.games/live/?ch=foxsports2usa", 
+  		"referer": "https://www.warpfootball.games/live/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "beinsport1fr",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/beinsport1fr.png",
+                "url": "https://www.ball24.tv/allchannel/?id=beinsport1fr", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "beinsport2fr",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/beinsport2fr.png",
+                "url": "https://www.ball24.tv/allchannel/?id=beinsport2fr", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sportv",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/sportv.png",
+                "url": "https://www.ball24.tv/allchannel/?id=sportv", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sportdigital",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/sportdigital.png",
+                "url": "https://www.ball24.tv/allchannel/?id=sportdigital", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "tv3sport1",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/tv3sport1.png",
+                "url": "https://www.ball24.tv/allchannel/?id=tv3sport1", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "tv3max",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/tv3max.png",
+                "url": "https://www.ball24.tv/allchannel/?id=tv3max", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "ziggosportvoetbal",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/ziggosportvoetbal.png",
+                "url": "https://www.ball24.tv/allchannel/?id=ziggosportvoetbal", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "ziggosportselect",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/ziggosportselect.png",
+                "url": "https://www.ball24.tv/allchannel/?id=ziggosportselect", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "cmorefootball",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/cmorefootball.png",
+                "url": "https://www.ball24.tv/allchannel/?id=cmorefootball", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "cmorelivehd",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/cmorelivehd.png",
+                "url": "https://www.ball24.tv/allchannel/?id=cmorelivehd", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "espnbrazil",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/espnbrazil.png",
+                "url": "https://www.ball24.tv/allchannel/?id=espnbrazil", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "espnus",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/espnus.png",
+                "url": "https://www.ball24.tv/allchannel/?id=espnus", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "btsport1",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/btsport1.png",
+                "url": "https://www.ball24.tv/allchannel/?id=btsport1", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "btsport2",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/btsport2.png",
+                "url": "https://www.ball24.tv/allchannel/?id=btsport2", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "btsport3",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/btsport3.png",
+                "url": "https://www.ball24.tv/allchannel/?id=btsport3", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "btsportESPN",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/btsportespn.png",
+                "url": "https://www.ball24.tv/allchannel/?id=btsportespn", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "mainevent",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportmainevent.png",
+                "url": "https://www.ball24.tv/allchannel/?id=skysportmainevent", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "premiere",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportpremiere.png",
+                "url": "https://www.ball24.tv/allchannel/?id=skysportpremiere", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "football",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportfootball.png",
+                "url": "https://www.ball24.tv/allchannel/?id=skysportfootball", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sportv",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/sportv.png",
+                "url": "https://www.ball24.tv/allchannel/?id=sportv", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sporttv1",
+                "image": "https://www.img06.xyz/assets/img/ch_logo/hd-sporttv1.jpg",
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv1", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sporttv2",
+                "image": "https://www.img06.xyz/assets/img/ch_logo/hd-sporttv2.jpg",
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv2", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		{ 
+               "name": "sporttv3",
+                "image": "https://www.img06.xyz/assets/img/ch_logo/hd-sporttv3.jpg",
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv3", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"},
+		
+		{ 
+               "name": "sporttv3",
+                "image": "https://www.img06.xyz/assets/img/ch_logo/hd-sporttv3.jpg",
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv3", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"},
+  		{ 
+               "name": "sporttv4",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/sporttv4.png",
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv4", 
+  		"referer": "https://ball365.co/channel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  } 
+              ]
+           } 
+          ]
+         } 
