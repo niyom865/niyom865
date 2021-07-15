@@ -1,0 +1,115 @@
+{ 
+   "name": "TV",
+   "author": "Fernado",
+   "url": "",
+   "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
+   "info": "",
+   "groups": [
+         { 
+         "name": "TV",
+          "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png", 
+          "stations": [  
+		
+		{name:"digital-tv",
+                  image:"https://www.we-play.live/images/logo.png",
+                    url:"https://www.we-play.live/tv/digital-tv",
+                  "webviewType": "chrome", "embed": true }, 
+		{name:"entertainment",
+                  image:"https://www.we-play.live/images/logo.png",
+                    url:"https://www.we-play.live/tv/entertainment",
+                  "webviewType": "chrome", "embed": true }, 
+	  { 
+               "name": "3HD",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png",
+                "url": "https://www.ball24.tv/allchannel/?id=3hd"
+            },
+
+              { 
+               "name": "5HD",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/5hd.png",
+                "url": "https://www.we-play.live/watching/tv/ch5-hd"
+            },
+		{ 
+               "name": "mcot-hd",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/mcot.png",
+                "url": "https://www.we-play.live/watching/tv/mcot-hd"
+            },
+		{ 
+               "name": "7hd",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/7hd.png",
+                "url": "https://www.we-play.live/watching/tv/ch7-hd"
+            },
+		{ 
+               "name": "pptv-hd",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/pptv.png",
+                "url": "https://www.we-play.live/watching/tv/pptv-hd"
+            },
+		{ 
+               "name": "one-hd",
+                "image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
+                "url": "https://www.we-play.live/watching/tv/one-hd"
+            },
+		{ 
+               "name": "amarin-tv",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/amarin.png",
+                "url": "https://www.we-play.live/watching/tv/amarin-tv"
+            },
+		{ 
+               "name": "gmm25",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/gmm25.png",
+                "url": "https://www.we-play.live/watching/tv/gmm25"
+            },
+		{ 
+               "name": "mono29",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/mono29.png",
+                "url": "https://www.we-play.live/watching/tv/mono29"
+            },
+		{ 
+               "name": "nationtv",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/nation.png",
+                "url": "https://www.we-play.live/watching/tv/nationtv"
+            },
+		{ 
+               "name": "thai-pbs",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/thaipbs.png",
+                "url": "https://www.we-play.live/watching/tv/thai-pbs"
+            },
+		{ 
+               "name": "thairath-tv",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png",
+                "url": "https://www.we-play.live/watching/tv/thairath-tv"
+            },
+		{ 
+               "name": "true4u",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/true4u.png",
+                "url": "https://www.we-play.live/watching/tv/true4u"
+            },
+		{ 
+               "name": "ch8",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/ch8.png",
+                "url": "https://www.ball24.tv/allchannel/?id=ch8"
+            },
+		{ 
+               "name": "workpoint",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/workpoint.png",
+                "url": "https://www.we-play.live/watching/tv/workpoint"
+            },
+		{ 
+               "name": "tnn",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/tnn.png",
+                "url": "https://www.ball24.tv/allchannel/?id=tnn"
+            },
+		{ 
+               "name": "jkn",
+                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/mocha/JKN.png",
+                "url": "https://www.ball24.tv/allchannel/?id=newtv"
+            },
+  		{ 
+               "name": "NBT",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/nbt.png",
+                "url": "https://www.ball24.tv/allchannel/?id=nbt"  
+             } 
+           ]
+          } 
+          ]
+         } 
