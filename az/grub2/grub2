@@ -25,6 +25,12 @@
 "import": false
 },
 {
+"name": "movi",
+"image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/HITSMOVIE.png",
+"url": "https://raw.githubusercontent.com/niyom865/old/main/ttt/ttt/3t/2t/mo/mo",
+"import": false
+},
+{
 "name": "SPORT",
 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
 "url": "https://raw.githubusercontent.com/niyom865/niyom865/main/az/SPO/SPO",
