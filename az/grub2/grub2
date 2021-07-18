@@ -61,6 +61,12 @@
 "import": false
 },
 {
+"name": "ball24",
+"image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
+"url": "https://raw.githubusercontent.com/niyom865/old/main/ttt/ttt/3t/2t/ball24/ball24",
+"import": false
+},
+{
 "name": "ball365.co",
 "image": "https://ball365.co/wp-content/themes/ball365/image/logo365.png",
 "url": "https://raw.githubusercontent.com/niyom865/old/main/b365/b36/b65/365",
