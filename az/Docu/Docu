@@ -76,85 +76,85 @@
                }, 
 		{ 
                "name": "geo-wild",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-natgeowild.jpg",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/nat-geo-wild-hd.png",
                 "url": "https://www.we-play.live/watching/tv/nat-geo-wild",
 		referer: "https://www.we-play.live/",playInNatPlayer: "true"	 
                }, 
 		{ 
                "name": "natgeopeople",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-natgeopeople.jpg",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/hd-natgeopeople.jpg",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-natgeopeople",
 		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
                }, 
 		{ 
                "name": "animalplanet",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-AnimalPlanet.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-animalplanet",
 		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
                }, 
 		{ 
                "name": "discovery",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/sd-discovery.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-hd.png",
                 "url": "https://www.we-play.live/watching/tv/discovery-channel",
 		referer: "https://www.we-play.live/",playInNatPlayer: "true"	 
                }, 
 		{ 
                "name": "hd-discovery",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-discovery.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-asia.png",
                 "url": "https://www.we-play.live/watching/tv/discovery-asia",
 		referer: "https://www.we-play.live/",playInNatPlayer: "true"	 
                }, 
 		{ 
                "name": "history-h2",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-history2.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history2.png",
                 "url": "https://www.we-play.live/watching/tv/history-h2",
 		referer: "https://www.we-play.live/",playInNatPlayer: "true"		 
                }, 
 		{ 
                "name": "history-hd",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-history.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history-hd.png",
                 "url": "https://www.we-play.live/watching/tv/history-hd",
 		referer: "https://www.we-play.live/",playInNatPlayer: "true"		 
                }, 
 		{ 
                "name": "geographic",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-natgeo-1.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/national-geographic.png",
                 "url": "https://www.we-play.live/watching/tv/national-geographic",
 		referer: "https://www.we-play.live/",playInNatPlayer: "true"	 
                },
 		{ 
                "name": "tlc-hd",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-tlc.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png",
                 "url": "https://www.we-play.live/watching/tv/tlc-hd",	
 		referer: "https://www.we-play.live/",playInNatPlayer: "true" 
                },
 		{ 
                "name": "bbc-earth",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/bbc-earth.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbcearth",	
 		referer: "https://siamtv88.co/",playInNatPlayer: "true" 
                },
 		{ 
                "name": "expwild",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/sd-expwild.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expwild",
 		referer: "https://siamtv88.co/",playInNatPlayer: "true" 
                },
 		{ 
                "name": "explife",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/sd-explife.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-explife.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-explife",	
 		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
                },
 		{ 
                "name": "expsci",
-                "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/sd-expsci.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expsci.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci",
 		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
                },
 		{
 "name":"TRUE EXPLORE WILD",
-"image":"https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/sd-expwild.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
 "url":"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "desktop": "true"
@@ -170,7 +170,7 @@
 
               { 
                "name": "animal-planet",
-                "image": "https://raw.githubusercontent.com/payom4444/Countries/master/mocha/sd-animalplanet.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/animal-planet.png",
                 "url": "https://www.we-play.live/watching/tv/animal-planet",
 		referer: "https://www.we-play.live/",playInNatPlayer: "true"
                } 
