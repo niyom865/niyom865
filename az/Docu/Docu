@@ -134,6 +134,13 @@
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbcearth",	
 		referer: "https://siamtv88.co/",playInNatPlayer: "true" 
                },
+	       { 
+               "name": "bbc-earth",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
+                "url": "https://freetvdd.com/สารคดี/bbc-earth/#",	
+		referer: "https://freetvdd.com/",
+             "viewerType": "hls",user-agent: "Mozilla/5.0 (CrKey OnePlus5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36",
+     "emble": true},
 		{ 
                "name": "expwild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
