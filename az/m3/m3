@@ -78,7 +78,7 @@
 }, 
 {                
       "name": "sd-bbcearth",
-      "image": "https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/sd-bbcearth.png",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-bbcearth.png",
       "url": "https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8","referer": "https://www.chomfootball.com/",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-A600F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36 Vinebre",
       "playInNatPlayer": "true"},
@@ -203,7 +203,7 @@
 },
 {
 "name": "hd-tlc",
-"image":"https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/hd-tlc.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png",
 "url":"https://siamtv88.co/index.php?a=live_details&channel_code=th-tlc",
 "referer": "https://siamtv88.co/index.php?a=live",
 "playInNatPlayer": "true"
@@ -259,7 +259,7 @@
 },
 {
 "name": "wild",
-"image":"https://raw.githubusercontent.com/payom4444/tvr/main/tv%20doc/sd-expwild.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
 "url":"https://siamtv88.co/index.php?a=live_details&channel_code=th-expwild",
 "referer": "https://siamtv88.co/index.php?a=live",
 "playInNatPlayer": "true"
@@ -280,14 +280,14 @@
 },
 {
 "name":"Samrujlok",
-"image":"https://dl.dropbox.com/s/ckgvct1v57ad6hd/samrujlok.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mocha/hd-samrujlok.jpg",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "url":"http://203.159.95.172:8081/live/explore/playlist.m3u8",
 "desktop":"true"
 },	
 {
 "name":"Samrujlok",
-"image":"https://dl.dropbox.com/s/ckgvct1v57ad6hd/samrujlok.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mocha/hd-samrujlok.jpg",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "url":"http://27.254.130.62/feed/LC8/playlist.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
@@ -295,13 +295,13 @@
 },	
 {
 "name":"Saradee",
-"image":"https://dl.dropbox.com/s/t08ficr4fi14oh1/PSI.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mocha/PSI.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=9039", 
 "referer": "https://www.inwiptv.com/", "playInNatPlayer": "true"
 },
 {
 "name":"DMAX UK",
-"image":"https://dl.dropbox.com/s/i6r47aqq0awtzt0/Dmax.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/DMax.png",
 "url":"https://siamtv88.co/index.php?a=live_details&channel_code=uk-dmax",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
@@ -309,7 +309,7 @@
 },		
 {
 "name":"DMAX",
-"image":"https://dl.dropbox.com/s/i6r47aqq0awtzt0/Dmax.png",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mocha/Dmax.png",
 "url":"http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd?checkedby:iptvcat.com5",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
