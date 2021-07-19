@@ -139,8 +139,10 @@
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
                 "url": "https://freetvdd.com/สารคดี/bbc-earth/#",	
 		referer: "https://freetvdd.com/",
-             "viewerType": "hls",user-agent: "Mozilla/5.0 (CrKey OnePlus5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36",
-     "emble": true},
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+"embed": "true",
+"desktop": "true"
+},
 		{ 
                "name": "expwild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
