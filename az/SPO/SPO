@@ -95,7 +95,7 @@
 		{  
                "name": "foxsporthd ball24",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsporthd.png",
-                "url": " https://www.ball24.tv/allchannel/live/foxsporthd/playlist.m3u8", 
+                "url": " https://www.ball24.tv/allchannel/?id=foxsporthd", 
   		"referer": "https://www.ball24.tv/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true" },
