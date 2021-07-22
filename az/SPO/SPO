@@ -63,12 +63,20 @@
                     url:"https://ball8k.com/home",
                   "webviewType": "chrome", "embed": true },
                   { 
+               "name": "sporthd andaman888th",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
+                "url": "https://live.andaman888th.com/live/truesporthd1/playlist.m3u8", 
+  		"referer": "https://live.andaman888th.com/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true" },
+		   { 
                "name": "sporthd",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
                 "url": "https://www.ball24.tv/allchannel/?id=truesporthd", 
-  		"referer": "https://ball365.co/channel/", 
+  		"referer": "https://www.ball24.tv/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true"
+		
             },
 		{ 
                "name": "sporthd",
@@ -79,7 +87,7 @@
                "name": "sporthd2",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",
                 "url": "https://www.ball24.tv/allchannel/?id=truesporthd2", 
-  		"referer": "https://ball365.co/channel/", 
+  		"referer": "https://www.ball24.tv/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true"
             },
@@ -92,7 +100,7 @@
                "name": "sporthd3",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",
                 "url": "https://www.ball24.tv/allchannel/?id=truesporthd3", 
-  		"referer": "https://ball365.co/channel/", 
+  		"referer": "https://www.ball24.tv/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true"
             },
