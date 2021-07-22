@@ -69,7 +69,30 @@
   		"referer": "https://live.andaman888th.com/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true" },
-		   { 
+		
+		   {  
+               "name": "sporthd2 andaman888th",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",
+                "url": "https://live.andaman888th.com/live/truesporthd2/playlist.m3u8", 
+  		"referer": "https://live.andaman888th.com/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true" },
+		   {  
+               "name": "sporthd3 andaman888th",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",
+                "url": "https://live.andaman888th.com/live/truesporthd3/playlist.m3u8", 
+  		"referer": "https://live.andaman888th.com/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true" },
+		  {  
+               "name": "sporthd4 andaman888th",
+                "image": "https://www.img06.xyz/assets/img/ch_logo/hd-tsport4.png",
+                "url": "https://live.andaman888th.com/live/truesporthd4/playlist.m3u8", 
+  		"referer": "https://live.andaman888th.com/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true" },
+		
+		
                "name": "sporthd",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
                 "url": "https://www.ball24.tv/allchannel/?id=truesporthd", 
