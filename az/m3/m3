@@ -7,6 +7,13 @@
  	
 
 {
+"name": "dis",
+"image": "https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg",
+"url": "https://github.com/niyom865/sx/raw/main/sx/ch/dis.m3u8",
+"referer": "https://www.we-play.live/",
+"playInNatPlayer": "true"
+},
+{
 "name": "Animal Planet",
 "image": "https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg",
 "url": "https://www.we-play.live/watching/tv/animal-planet",
