@@ -670,7 +670,34 @@
                "name": "mainevent",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportmainevent.png",
                 "url": "https://www.ball24.tv/allchannel/?id=skysportmainevent", 
-  		"referer": "https://ball365.co/channel/", 
+  		"referer": "https://www.ball24.tv/allchannel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		  { 
+               "name": "skysportmix",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportmix.png",
+                "url": "https://www.ball24.tv/allchannel/?id=skysportmix", 
+  		"referer": "https://www.ball24.tv/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		  { 
+               "name": "skysportarena",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportmix.png",
+                "url": "https://www.ball24.tv/allchannel/?id=skysportarena", 
+  		"referer": "https://www.ball24.tv/allchannel/", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+    		"desktop ": "true"
+            
+                  }, 
+		    { 
+               "name": "skysportaction",
+                "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportaction.png",
+                "url": "https://www.ball24.tv/allchannel/?id=skysportaction", 
+  		"referer": "https://www.ball24.tv/allchannel/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true"
             
@@ -679,7 +706,7 @@
                "name": "premiere",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportpremiere.png",
                 "url": "https://www.ball24.tv/allchannel/?id=skysportpremiere", 
-  		"referer": "https://ball365.co/channel/", 
+  		"referer": "https://www.ball24.tv/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true"
             
@@ -688,7 +715,7 @@
                "name": "football",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/skysportfootball.png",
                 "url": "https://www.ball24.tv/allchannel/?id=skysportfootball", 
-  		"referer": "https://ball365.co/channel/", 
+  		"referer": "https://www.ball24.tv/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true"
             
