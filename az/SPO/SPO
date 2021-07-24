@@ -145,12 +145,12 @@
 		{ 
                "name": "sporthd5",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesport5.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truesport5" viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+                "url": "https://www.ball24.tv/allchannel/?id=truesport5","referer": "https://www.ball24.tv/", viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
 		{ 
                "name": "sporthd7",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesport7.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truesport7" viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+                "url": "https://www.ball24.tv/allchannel/?id=truesport7","referer": "https://www.ball24.tv/", viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
 		{ 
                "name": "PL1",
@@ -166,13 +166,13 @@
                "name": "bein1",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
                 "url": "https://www.ball24.tv/allchannel/?id=bein1", 
-  		"referer": "https://ball365.co/channel/",  viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+  		"referer": "https://www.ball24.tv/",  viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
 		{ 
                "name": "bein2",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",
                 "url": "https://www.ball24.tv/allchannel/?id=bein2", 
-  		"referer": "https://ball365.co/channel/",  viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+  		"referer": "https://www.ball24.tv/",  viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
             },
 		{ 
