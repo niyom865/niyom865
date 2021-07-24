@@ -96,16 +96,16 @@
                "name": "foxsporthd ball24",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsporthd.png",
                 "url": " https://www.ball24.tv/allchannel/?id=foxsporthd", 
-  		"referer": "https://www.ball24.tv/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+  		"referer": "https://www.ball24.tv/",  "type": "hls",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  
     		"desktop ": "true" },
 		
 		{
                "name": "sporthd",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
                 "url": "https://www.ball24.tv/allchannel/?id=truesporthd", 
-  		"referer": "https://www.ball24.tv/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+  		"referer": "https://www.ball24.tv/", "type": "hls",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   
     		"desktop ": "true"
 		
             },
@@ -131,8 +131,8 @@
                "name": "sporthd3",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",
                 "url": "https://www.ball24.tv/allchannel/?id=truesporthd3", 
-  		"referer": "https://www.ball24.tv/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+  		"referer": "https://www.ball24.tv/", "type": "hls",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   
     		"desktop ": "true"
             },
 		{ 
@@ -174,16 +174,16 @@
                "name": "bein1",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",
                 "url": "https://www.ball24.tv/allchannel/?id=bein1", 
-  		"referer": "https://ball365.co/channel/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+  		"referer": "https://ball365.co/channel/",  "type": "hls",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  
     		"desktop ": "true"
             },
 		{ 
                "name": "bein2",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",
                 "url": "https://www.ball24.tv/allchannel/?id=bein2", 
-  		"referer": "https://ball365.co/channel/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+  		"referer": "https://ball365.co/channel/",  "type": "hls",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  
     		"desktop ": "true"
             },
 		{ 
