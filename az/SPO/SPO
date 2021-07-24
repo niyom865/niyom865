@@ -452,7 +452,7 @@
                   }, 
 		{ 
                "name": "foxsport3nl",
-                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/foxsport3nl.png.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/foxsport3nl.png",
                 "url": "https://www.ball24.tv/allchannel/?id=foxsport3nl", 
   		"referer": "https://ball365.co/channel/", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
