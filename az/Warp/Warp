@@ -707,18 +707,6 @@
     		"auto start": "true"	     
               }	
           ]
-        },
-	"groups": [
-
-{
-"name": "TV",
-"image": "https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
-"url": "https://raw.githubusercontent.com/niyom865/old/main/b365/b36/wrap/v",
-"import": false
-
-	
-	}
-     ]
-  }
+        }
 ]
 }
