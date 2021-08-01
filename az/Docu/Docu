@@ -14,12 +14,31 @@
                   image:"https://www.we-play.live/images/logo.png",
                     url:"https://www.we-play.live/tv/documentary-tv",
                   "webviewType": "chrome", "embed": true },
+		  {name:"we-play",
+                  image:"https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png",
+                    url:"https://www.doofootball.com/dootv",
+                  "webviewType": "chrome", "embed": true },
+		  
+		    {name:"we-play",
+                  image:"https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png",
+                    url:"https://www.doofootball.com/dootv#dootv_digital_tv",
+                  "webviewType": "chrome", "embed": true },
+		  
+		  
 		{ 
+               "name": "Discovery",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
+                "url": "https://www.doofootball.com/dootv/live/discovery#main_dootv",
+                referer: "https://www.doofootball.com/dootv/live/",playInNatPlayer: "true","desktop":"true"
+            },
+	    { 
                "name": "Discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
                 referer: "https://dooball66.com/",playInNatPlayer: "true"
             },
+	    
+	    
 		{ 
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
