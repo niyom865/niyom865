@@ -88,11 +88,18 @@
 "import": false
 },
 {
-"name": "doofootball.com/dootv/",
+"name": "doofootball/dootv/",
 "image": "https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png",
 "url": "https://raw.githubusercontent.com/niyom865/old/main/b365/b36/b8k/doofootball",
 "import": false
 },
+{
+"name": "doofootball",
+"image": "https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png",
+"url": "https://raw.githubusercontent.com/niyom865/old/main/b365/b36/doofoot",
+"import": false
+},
+
 
 {
 "name": "ball365.co",
