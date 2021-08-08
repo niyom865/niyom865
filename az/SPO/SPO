@@ -66,6 +66,10 @@
                   image:"https://ball8k.com/assets/img/ball8k_logo.png",
                     url:"https://ball8k.com/home",
                   "webviewType": "chrome", "embed": true },
+		  {name:"ball8k",
+                  image:"http://cdn.livetv449.me/img/logo_en.jpg",
+                    url:"http://livetv.sx/enx/",
+                  "webviewType": "chrome", "embed": true },
                   { 
                "name": "sporthd andaman888th",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
