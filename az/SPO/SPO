@@ -27,7 +27,7 @@
 		  {name:"ball365.co/dootv",
                   image:"https://ball365.co/wp-content/themes/ball365/image/logo365.png",
                     url:"https://ball365.co/dootv",
-                  "target":"_blank","embed": true },
+                  "webviewType": "chrome","userAgent": "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", "embed": true },
 		  
 		  {name:"www.warpfootball.games",
                   image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
@@ -112,14 +112,14 @@
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png",
                 "url": "https://live.andaman888th.com/live/truesporthd2/playlist.m3u8", 
   		"referer": "https://live.andaman888th.com/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+   		"userAgent": "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true" },
 		   {  
                "name": "sporthd3 andaman888th",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png",
                 "url": "https://live.andaman888th.com/live/truesporthd3/playlist.m3u8", 
   		"referer": "https://live.andaman888th.com/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+   		"userAgent": "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true" },
 		
 		  {  
@@ -127,7 +127,7 @@
                 "image": "https://www.img06.xyz/assets/img/ch_logo/hd-tsport4.png",
                 "url": "https://live.andaman888th.com/live/truesporthd4/playlist.m3u8", 
   		"referer": "https://live.andaman888th.com/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
+   		"userAgent": "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "type": "hls",
     		"desktop ": "true" },
 		{  
                "name": "foxsporthd ball24",
