@@ -27,7 +27,7 @@
 		  {name:"ball365.co/dootv",
                   image:"https://ball365.co/wp-content/themes/ball365/image/logo365.png",
                     url:"https://ball365.co/dootv",
-                  "target": "_blank",  "rel": "noopener","embed": true },
+                  "target":"_blank","embed": true },
 		  
 		  {name:"www.warpfootball.games",
                   image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
