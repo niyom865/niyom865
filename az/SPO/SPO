@@ -14,14 +14,54 @@
                   image:"https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
                     url:"https://www.ball24.tv/allchannel/",
                   "webviewType": "chrome", "embed": true },
+		  {name:"www.ball24.tv/live/",
+                  image:"https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
+                    url:"https://www.ball24.tv/live/",
+                  "webviewType": "chrome", "embed": true },
+		  
+		  
 		{name:"ball365",
                   image:"https://ball365.co/wp-content/themes/ball365/image/logo365.png",
                     url:"https://ball365.co/channel/",
                   "webviewType": "chrome", "embed": true },
-		{name:"warpballsod",
+		  {name:"ball365.co/dootv",
+                  image:"https://ball365.co/wp-content/themes/ball365/image/logo365.png",
+                    url:"https://ball365.co/dootv",
+                  "webviewType": "chrome", "embed": true },
+		  
+		  {name:"www.warpfootball.games",
+                  image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
+                    url:"https://www.warpfootball.games/",
+                  "webviewType": "chrome", "embed": true },
+		  
+		  {name:"warpballsod",
                   image:"https://www.warpballsod.tv/wp-content/themes/ballsod/img/logo-b.png",
                     url:"https://www.warpballsod.tv/play-channel/",
                   "webviewType": "chrome", "embed": true },
+		  
+		  {name:"www.warpballsod.tv/live",
+                  image:"https://www.warpballsod.tv/wp-content/themes/ballsod/img/logo-b.png",
+                    url:"https://www.warpballsod.tv/",
+                  "webviewType": "chrome", "embed": true },
+		  
+		  
+		   {name:"doofootball/dootv",
+                  image:"https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png",
+                    url:"https://www.doofootball.com/dootv",
+                  "webviewType": "chrome", "embed": true },
+		  
+		  {name:"chomfootball.com",
+                  image:"https://www.chomfootball.com/assets/dd02af30/img/chomfootball_logo.png",
+                    url:"https://www.chomfootball.com/",
+                  "webviewType": "chrome", "embed": true },
+		  
+		{name:"liveballsod",
+                  image:"https://www.liveballsod.com/wp-content/uploads/2018/08/logo250.png",
+                    url:"https://www.liveballsod.com/",
+                  "webviewType": "chrome", "embed": true },
+		  
+		  
+		  
 		{name:"doonung1234",
                   image:"https://www.doonung1234.com/asset/web/img/logo.png",
                     url:"https://www.doonung1234.com/match",
@@ -34,14 +74,8 @@
                   image:"https://fo1iptv.com/images/logo2.png",
                     url:"https://fo1iptv.com/live-tv",
                   "webviewType": "chrome", "embed": true },
-		{name:"chomfootball.com",
-                  image:"https://www.chomfootball.com/assets/dd02af30/img/chomfootball_logo.png",
-                    url:"https://www.chomfootball.com/",
-                  "webviewType": "chrome", "embed": true },
-		  {name:"doofootball",
-                  image:"https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png",
-                    url:"https://www.doofootball.com/",
-                  "webviewType": "chrome", "embed": true },
+		
+		 
 		{name:"ballzaa.com",
                   image:"https://www.ballzaa.com/img/config/B-1208365468173.png",
                     url:"https://www.ballzaa.com/บอลซ่าดูบอลสด",
@@ -50,14 +84,8 @@
                   image:"https://www.andaman888th.com/wp-content/uploads/2019/01/logoheader2.png",
                     url:"https://www.andaman888th.com/ดูบอลออนไลน์/",
                   "webviewType": "chrome", "embed": true },
-		{name:"liveballsod",
-                  image:"https://www.liveballsod.com/wp-content/uploads/2018/08/logo250.png",
-                    url:"https://www.liveballsod.com/",
-                  "webviewType": "chrome", "embed": true },
-		{name:"warpfootball",
-                  image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
-                    url:"https://www.warpfootball.games/",
-                  "webviewType": "chrome", "embed": true },
+		
+		
 		{name:"dooball66",
                   image:"https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png",
                     url:"https://dooball66.com/ดูบอลออนไลน์/",
@@ -70,10 +98,7 @@
                   image:"http://cdn.livetv449.me/img/logo_en.jpg",
                     url:"http://livetv.sx/enx/",
                   "webviewType": "chrome", "embed": true },
-		   {name:"sport365",
-                  image:"http://cdn.livetv449.me/img/logo_en.jpg",
-                    url:"http://www.sport365.live/en/main",
-                  "webviewType": "chrome", "embed": true },
+		  
                   { 
                "name": "sporthd andaman888th",
                 "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png",
