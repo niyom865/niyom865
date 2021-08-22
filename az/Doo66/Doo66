@@ -102,6 +102,24 @@ url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=
 url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 }, 
 
+
+{name: "hd-history2",image: "https://www.img03.xyz/assets/img/ch_logo/hd-history2.png",
+url: "https://we-play.live/watching/tv/history-h2",referer: "https://dooball66.com/","desktop": "true"
+}, 
+
+
+{name: "natgeowild",image: "https://www.img03.xyz/assets/img/ch_logo/hd-natgeowild.jpg",
+url: "https://we-play.live/watching/tv/nat-geo-wild",referer: "https://dooball66.com/","desktop": "true"
+}, 
+
+{name: "tlc-hd",image: "https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",
+url: "https://we-play.live/watching/tv/tlc-hd",referer: "https://dooball66.com/","desktop": "true"
+}, 
+
+
+
+
+
 {name: "sd-bbcearth",image: "https://www.img03.xyz/assets/img/ch_logo/sd-bbcearth.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 }, 
