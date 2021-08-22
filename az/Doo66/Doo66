@@ -6,6 +6,182 @@
 "stations":[
 {name:"Main page",image:"https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1024x246.png",url:"https://dooball66.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/",
 "webviewType": "chrome", "embed": true },
+
+{name: "sd-nbt",image: "https://overseer.blackboxsys.net/images/png/sd-nbt.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-nbt&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+},
+
+{name: "hd-amarin",image: "https://overseer.blackboxsys.net/images/png/hd-amarin.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+},
+
+{name: "hd-ch3",image: "https://overseer.blackboxsys.net/images/png/hd-ch3.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "hd-ch5",image: "https://overseer.blackboxsys.net/images/png/hd-ch5.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "hd-ch7",image: "https://overseer.blackboxsys.net/images/png/hd-ch7.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-ch8",image: "https://overseer.blackboxsys.net/images/png/hd-ch8.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-gmmchannel",image: "https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-gmmchannel&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-gmmone.png",image: "https://overseer.blackboxsys.net/images/png/hd-gmmone.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "hd-mono",image: "https://overseer.blackboxsys.net/images/png/hd-mono.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-mono&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-nation",image: "https://overseer.blackboxsys.net/images/png/sd-nation.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-nation&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-new",image: "https://overseer.blackboxsys.net/images/png/sd-new.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-pptv",image: "https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-tptv",image: "https://overseer.blackboxsys.net/images/png/sd-tptv.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-tpbs",image: "https://overseer.blackboxsys.net/images/png/hd-tpbs.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-thairath",image: "https://overseer.blackboxsys.net/images/png/hd-thairath.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-thairath&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-tnn24",image: "https://overseer.blackboxsys.net/images/png/sd-tnn24.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tnn24&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-24u",image: "https://overseer.blackboxsys.net/images/png/sd-24u.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-24u&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-voice",image: "https://overseer.blackboxsys.net/images/png/sd-voice.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-voice&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-workpoint",image: "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-animalplanet",image: "https://overseer.blackboxsys.net/images/png/sd-animalplanet.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-discovery",image: "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-discovery",image: "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-history",image: "https://overseer.blackboxsys.net/images/png/hd-history.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-bbcearth",image: "https://www.img03.xyz/assets/img/ch_logo/sd-bbcearth.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "sd-bbclifestyle",image: "https://www.img03.xyz/assets/img/ch_logo/sd-bbclifestyle.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbclifestyle&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "hd-asian",image: "https://overseer.blackboxsys.net/images/png/hd-asian.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "hd-tfilm2",image: "https://overseer.blackboxsys.net/images/png/hd-tfilm2.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-tfilm",image: "https://overseer.blackboxsys.net/images/png/hd-tfilm.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "sd-moviehits",image: "https://overseer.blackboxsys.net/images/png/sd-moviehits.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "sd-thaifilm",image: "https://overseer.blackboxsys.net/images/png/sd-thaifilm.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-inside",image: "https://overseer.blackboxsys.net/images/png/sd-inside.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-inside&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-xzyte",image: "https://overseer.blackboxsys.net/images/png/hd-xzyte.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-tvb",image: "https://overseer.blackboxsys.net/images/png/sd-tvb.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tvb&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-warnertv",image: "https://overseer.blackboxsys.net/images/png/hd-warnertv.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-paramount",image: "https://overseer.blackboxsys.net/images/png/hd-paramount.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-foxpremium",image: "https://overseer.blackboxsys.net/images/png/hd-foxpremium.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxpremium&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-foxaction",image: "https://overseer.blackboxsys.net/images/png/hd-foxaction.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxaction&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-foxfamily",image: "https://overseer.blackboxsys.net/images/png/hd-foxfamily.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxfamily&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "sd-fox",image: "https://overseer.blackboxsys.net/images/png/sd-fox.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-fox&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+{name: "hd-rtlcbs",image: "https://overseer.blackboxsys.net/images/png/hd-rtlcbs.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbs&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+{name: "hd-rtlcbsextreme",image: "https://overseer.blackboxsys.net/images/png/hd-rtlcbsextreme.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+
+
+
 {name: "Foxsports1",image: "https://i.imgur.com/8XcXaof.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 },
