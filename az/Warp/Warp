@@ -53,7 +53,41 @@
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
                 "url": "https://www.warpfootball.games/live/?ch=epl5","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	  
+		
+		{
+              "name": "epl1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-epl1&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
     		"deskpop": "true"},   	   
+             
+            {
+              "name": "epl2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-epl2&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+            {
+              "name": "epl3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-epl3&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	{
+              "name": "epl4",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-epl4&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	{
+              "name": "epl5",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-epl5&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   
+		
+		
 	{
               "name": "bein1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
