@@ -54,6 +54,13 @@
                   image:"https://www.chomfootball.com/assets/dd02af30/img/chomfootball_logo.png",
                     url:"https://www.chomfootball.com/",
                   "webviewType": "chrome", "embed": true },
+		   
+		   {name:"livescorethai",
+                  image:"https://livescorethai.net/assets/images/logo-new.png?v=4",
+                    url:"https://livescorethai.net/ดูบอลสดLST",
+                  "webviewType": "chrome", "embed": true },
+		  
+		  
 		  
 		{name:"liveballsod",
                   image:"https://www.liveballsod.com/wp-content/uploads/2018/08/logo250.png",
