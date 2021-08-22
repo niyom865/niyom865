@@ -90,9 +90,100 @@
 		{
               "name": "bein1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
-                "url": "https://embed-dev.blackboxsys.net/42005100-037c-49b5-b252-bbdea372ac63","referer": "https://dooball66.com/ ", 
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"},  
+		
+		{
+              "name": "bein2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		{
+              "name": "bein3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		{
+              "name": "bein4",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein4&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		{
+              "name": "bein5",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		
+		{
+              "name": "bein6",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		
+		{
+              "name": "bein7",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		
+		{
+              "name": "bein8",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		
+		{
+              "name": "bein9",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		{
+              "name": "bein10",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		{
+              "name": "bein11",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		{
+              "name": "bein12",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		{
+              "name": "bein1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f","referer": "https://dooball66.com/ ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"},  
+		
+		
+		
 		
 		
 		
