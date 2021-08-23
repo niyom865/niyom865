@@ -313,8 +313,8 @@
 {
 "name":"Saradee",
 "image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mocha/PSI.png",
-"url": "https://www.inwiptv.com/player_demo.php?channel=9039", 
-"referer": "https://www.inwiptv.com/", "playInNatPlayer": "true"
+"url": "http://psilive3.sky-cdn.com:1935/edgelivepsi/PSIHD.stream_720p/playlist_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2Mjg4MzgxMTYmZG9vc3RyZWFtZW5kdGltZT0xNjI4ODQ4OTE2JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWpPcVJjWVdjNEFuNXVMd0tCeExEdDZXRHNQaHVMMVIzLUhtYnNRalFhdFE9.m3u8", 
+"referer": "", "playInNatPlayer": "true"
 },
 {
 "name":"DMAX UK",
