@@ -300,6 +300,16 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "desktop":"true"
 },	
+
+{
+"name":"Saradee",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mocha/PSI.png",
+"url": "http://psilive3.sky-cdn.com:1935/edgelivepsi/PSIHD.stream_360p/playlist_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2Mjg4MzgxMTYmZG9vc3RyZWFtZW5kdGltZT0xNjI4ODQ4OTE2JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWpPcVJjWVdjNEFuNXVMd0tCeExEdDZXRHNQaHVMMVIzLUhtYnNRalFhdFE9.m3u8", 
+"referer": "", "playInNatPlayer": "true"
+},
+
+
+
 {
 "name":"Saradee",
 "image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mocha/PSI.png",
