@@ -188,6 +188,37 @@
 "desktop": "true"
 },
 {
+"name":"files1",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
+"url":"https://bam-cell.nr-data.net/jserrors/1/5acaf073fe?a=137962879&v=1210.e2a3f80&to=MlZRYEZWDUZRUhVcXwscZkZdGBRcVFYEQR4VW0M%3D&rst=241375&ck=1&ref=https://accounts.trueid.net/widget.php",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+
+{
+"name":"files2",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
+"url":"https://cdn025.stm.trueid.net/live11/094_w_auto_tidapp.smil/manifest_w448726828_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZ1aWQ9OTY4NTQxMjYmZGlkPU1USTNNekUyTkRreE5TNHhOVGsxTURBd01URTUmc2lkPTIxMDIxNTExOTcmcnQ9MTYyOTc2OTI2MCZ0az1UaVZhT2ZheEp4SkpoZm1CYnRPUFBadTNFZ0s2UThXMVVuczJZNnNidUg0.mpd",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+
+{
+"name":"files3",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
+"url":"http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+
+
+
+
+
+
+
+
+{
 "name":"Mangorn",
 "image":"https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",
 "url":"https://tv.trueid.net/embed/Mangorn?autoplay=yes&nopageview=yes",
