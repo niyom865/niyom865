@@ -27,7 +27,7 @@
 		  
 		{ 
                "name": "Discovery",
-                "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://www.doofootball.com/dootv/live/discovery#main_dootv",
                 referer: "https://www.doofootball.com/dootv/live/",playInNatPlayer: "true","desktop":"true"
             },
@@ -35,7 +35,7 @@
                "name": "Discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
-                referer: "https://dooball66.com/",playInNatPlayer: "true"
+                referer: "https://dooball66.com/",desktop: "true"
             },
 	    
 	    
@@ -43,115 +43,115 @@
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-discoveryasia", 
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"       
+		referer: "https://siamtv88.co/",desktop: "true"       
             },
 		  { 
                "name": "natgeo",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-natgeo.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
-                referer: "https://dooball66.com/",playInNatPlayer: "true"
+                referer: "https://dooball66.com/",desktop: "true"
             },
 		{ 
                "name": "natgeo",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-natgeo.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-natgeo", 
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"        
+		referer: "https://siamtv88.co/",desktop: "true"        
             },
 		   { 
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-                referer: "https://dooball66.com/",playInNatPlayer: "true"
+                referer: "https://dooball66.com/",desktopr: "true"
             },
 		{ 
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-history", 
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"            
+		referer: "https://siamtv88.co/",desktop: "true"            
             },
 		 { 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://www.we-play.live/watching/tv/history-h2", 
-		referer: "https://www.we-play.live/",playInNatPlayer: "true"             
+		referer: "https://www.we-play.live/",desktop: "true"             
             },
 		{ 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-history2", 
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"          
+		referer: "https://siamtv88.co/",desktop: "true"          
             },
 		{ 
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-		referer: "https://dooball66.com/",playInNatPlayer: "true"
+		referer: "https://dooball66.com/",desktop: "true"
                }, 
 		{ 
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-discovery",
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
+		referer: "https://siamtv88.co/",desktop: "true"	 
                }, 
 		{ 
                "name": "geo-wild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/nat-geo-wild-hd.png",
                 "url": "https://www.we-play.live/watching/tv/nat-geo-wild",
-		referer: "https://www.we-play.live/",playInNatPlayer: "true"	 
+		referer: "https://www.we-play.live/",desktop: "true"	 
                }, 
 		{ 
                "name": "natgeopeople",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/hd-natgeopeople.jpg",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-natgeopeople",
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
+		referer: "https://siamtv88.co/",desktop: "true"	 
                }, 
 		{ 
                "name": "animalplanet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-animalplanet",
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
+		referer: "https://siamtv88.co/",desktop: "true"	 
                }, 
 		{ 
                "name": "discovery",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-hd.png",
                 "url": "https://www.we-play.live/watching/tv/discovery-channel",
-		referer: "https://www.we-play.live/",playInNatPlayer: "true"	 
+		referer: "https://www.we-play.live/",desktop: "true"	 
                }, 
 		{ 
                "name": "hd-discovery",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-asia.png",
                 "url": "https://www.we-play.live/watching/tv/discovery-asia",
-		referer: "https://www.we-play.live/",playInNatPlayer: "true"	 
+		referer: "https://www.we-play.live/",desktop: "true"	 
                }, 
 		{ 
                "name": "history-h2",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history2.png",
                 "url": "https://www.we-play.live/watching/tv/history-h2",
-		referer: "https://www.we-play.live/",playInNatPlayer: "true"		 
+		referer: "https://www.we-play.live/",desktop: "true"		 
                }, 
 		{ 
                "name": "history-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history-hd.png",
                 "url": "https://www.we-play.live/watching/tv/history-hd",
-		referer: "https://www.we-play.live/",playInNatPlayer: "true"		 
+		referer: "https://www.we-play.live/",desktop: "true"		 
                }, 
 		{ 
                "name": "geographic",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/national-geographic.png",
                 "url": "https://www.we-play.live/watching/tv/national-geographic",
-		referer: "https://www.we-play.live/",playInNatPlayer: "true"	 
+		referer: "https://www.we-play.live/",desktop: "true"	 
                },
 		{ 
                "name": "tlc-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png",
                 "url": "https://www.we-play.live/watching/tv/tlc-hd",	
-		referer: "https://www.we-play.live/",playInNatPlayer: "true" 
+		referer: "https://www.we-play.live/",desktop: "true" 
                },
 		{ 
                "name": "bbc-earth",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbcearth",	
-		referer: "https://siamtv88.co/",playInNatPlayer: "true" 
+		referer: "https://siamtv88.co/",desktop: "true" 
                },
 	       { 
                "name": "bbc-earth",
@@ -166,19 +166,19 @@
                "name": "expwild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expwild",
-		referer: "https://siamtv88.co/",playInNatPlayer: "true" 
+		referer: "https://siamtv88.co/",desktop: "true" 
                },
 		{ 
                "name": "explife",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-explife.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-explife",	
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
+		referer: "https://siamtv88.co/",desktop: "true"	 
                },
 		{ 
                "name": "expsci",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expsci.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci",
-		referer: "https://siamtv88.co/",playInNatPlayer: "true"	 
+		referer: "https://siamtv88.co/",desktop: "true"	 
                },
 		{
 "name":"TRUE EXPLORE WILD",
@@ -187,29 +187,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "desktop": "true"
 },
-{
-"name":"files1",
-"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
-"url":"https://bam-cell.nr-data.net/jserrors/1/5acaf073fe?a=137962879&v=1210.e2a3f80&to=MlZRYEZWDUZRUhVcXwscZkZdGBRcVFYEQR4VW0M%3D&rst=241375&ck=1&ref=https://accounts.trueid.net/widget.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"desktop": "true"
-},
-
-{
-"name":"files2",
-"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
-"url":"https://cdn025.stm.trueid.net/live11/094_w_auto_tidapp.smil/manifest_w448726828_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZ1aWQ9OTY4NTQxMjYmZGlkPU1USTNNekUyTkRreE5TNHhOVGsxTURBd01URTUmc2lkPTIxMDIxNTExOTcmcnQ9MTYyOTc2OTI2MCZ0az1UaVZhT2ZheEp4SkpoZm1CYnRPUFBadTNFZ0s2UThXMVVuczJZNnNidUg0.mpd",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"desktop": "true"
-},
-
-{
-"name":"files3",
-"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
-"url":"http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"desktop": "true"
-},
+ 
 
 
 
