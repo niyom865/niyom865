@@ -35,7 +35,9 @@
                "name": "Discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
-                referer: "https://dooball66.com/",desktop: "true"
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+"embed": "true",
+"desktop": "true"
             },
 	    
 	    
@@ -43,13 +45,17 @@
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-discoveryasia", 
-		referer: "https://siamtv88.co/",desktop: "true"       
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+"embed": "true",
+"desktop": "true"   
             },
 		  { 
                "name": "natgeo",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-natgeo.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
-                referer: "https://dooball66.com/",desktop: "true"
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+"embed": "true",
+"desktop": "true"
             },
 		{ 
                "name": "natgeo",
@@ -61,7 +67,9 @@
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-                referer: "https://dooball66.com/",desktopr: "true"
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+"embed": "true",
+"desktop": "true"
             },
 		{ 
                "name": "history",
@@ -85,13 +93,17 @@
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-		referer: "https://dooball66.com/",desktop: "true"
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+"embed": "true",
+"desktop": "true"
                }, 
 		{ 
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-discovery",
-		referer: "https://siamtv88.co/",desktop: "true"	 
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+"embed": "true",
+"desktop": "true" 
                }, 
 		{ 
                "name": "geo-wild",
@@ -103,7 +115,9 @@
                "name": "natgeopeople",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/hd-natgeopeople.jpg",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-natgeopeople",
-		referer: "https://siamtv88.co/",desktop: "true"	 
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+"embed": "true",
+"desktop": "true"
                }, 
 		{ 
                "name": "animalplanet",
