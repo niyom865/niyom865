@@ -43,8 +43,17 @@
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-discoveryasia", 
-		referer: "https://dooball66.com/","embed": "true"
+		referer: "https://siamtv88.co/","desktop": "true"
 },
+{ 
+               "name": "discoveryasia",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
+                "url": "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8", 
+		referer: "https://www.doomovie-hd.com/","desktop": "true"
+},
+
+
+
 		  { 
                "name": "natgeo",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-natgeo.png",
@@ -78,9 +87,16 @@
 		{ 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
+                "url": "https://livedoomovie.com/02_H2HD_720p/chunklist.m3u8", 
+		referer: "https://www.doomovie-hd.com/",desktop: "true"          
+            },
+	    { 
+               "name": "history2",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-history2", 
 		referer: "https://siamtv88.co/",desktop: "true"          
             },
+	    
 		{ 
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
