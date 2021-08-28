@@ -300,6 +300,15 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "desktop":"true"
 },	
+{
+"name":"Saradee",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mocha/PSI.png",
+"url": "https://freelive2.inwstream.com:1936/freelive-edge/saradee99/chunks.m3u8", 
+"referer": "", "playInNatPlayer": "true"
+},
+
+
+
 
 {
 "name":"Saradee",
