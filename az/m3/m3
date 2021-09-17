@@ -113,8 +113,16 @@
 {
 "name": "BBC Earth",
 "image":"https://dl.dropbox.com/s/uu4f1ytnd35clxq/bbcearth.png",
-"url":"https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbcearth",
-"referer": "https://siamtv88.co/index.php?a=live",
+"url":"https://freetvdd.com/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/bbc-earth/#",
+"referer": "https://freetvdd.com/",
+"embed": "true"
+},
+
+{
+"name": "BBC Earth",
+"image":"https://dl.dropbox.com/s/uu4f1ytnd35clxq/bbcearth.png",
+"url":"https://www.doofree88.com/live/bbc-earth",
+"referer": "https://www.doofree88.com/",
 "playInNatPlayer": "true"
 },
 {
