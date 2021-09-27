@@ -49,7 +49,9 @@
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8", 
-		referer: "https://www.doomovie-hd.com/","desktop": "true"
+		referer: "https://www.doomovie-hd.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true"
 },
 
 
@@ -75,8 +77,10 @@
 		{ 
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-history", 
-		referer: "https://siamtv88.co/",desktop: "true"            
+                "url": "https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8", 
+		referer: "https://www.doomovie-hd.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		desktop: "true"            
             },
 		 { 
                "name": "history2",
@@ -88,7 +92,9 @@
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://livedoomovie.com/02_H2HD_720p/chunklist.m3u8", 
-		referer: "https://www.doomovie-hd.com/",desktop: "true"          
+		referer: "https://www.doomovie-hd.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		desktop: "true"          
             },
 	    { 
                "name": "history2",
