@@ -29,13 +29,13 @@
                "name": "Discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://embed.dooball66.com/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-                referer: "https://dooball66.com/","embed": "true","desktop":"true"
+                "referer": "https://dooball66.com/","embed": "true","desktop":"true"
             },
 	    { 
                "name": "Discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
-               referer: "https://dooball66.com/","embed": "true"
+               "referer": "https://dooball66.com/","embed": "true"
 },
 	    
 	    
@@ -43,7 +43,7 @@
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8", 
-		referer: "https://livescorethai.net/",
+		 "referer": "https://livescorethai.net/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"
 },
@@ -51,7 +51,7 @@
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
                 "url": "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8", 
-		referer: "https://www.doomovie-hd.com/",
+		 "referer": "https://www.doomovie-hd.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"
 },
@@ -62,25 +62,25 @@
                "name": "natgeo",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-natgeo.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
-               referer: "https://dooball66.com/","embed": "true"
+                "referer": "https://dooball66.com/","embed": "true"
 },
 		{ 
                "name": "natgeo",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-natgeo.png",
                 "url": "https://we-play.live/watching/tv/national-geographic", 
-		referer: "https://we-play.live/",desktop: "true"        
+		 "referer": "https://we-play.live/",desktop: "true"        
             },
 		   { 
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-               referer: "https://dooball66.com/","embed": "true"
+              "referer": "https://dooball66.com/","embed": "true"
 },
 		{ 
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
                 "url": "https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8", 
-		referer: "https://www.doomovie-hd.com/",
+		 "referer": "https://www.doomovie-hd.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		desktop: "true"            
             },
@@ -88,13 +88,13 @@
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://www.we-play.live/watching/tv/history-h2", 
-		referer: "https://www.we-play.live/",desktop: "true"             
+		 "referer": "https://www.we-play.live/",desktop: "true"             
             },
 		{ 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://livedoomovie.com/02_H2HD_720p/chunklist.m3u8", 
-		referer: "https://www.doomovie-hd.com/",
+		 "referer": "https://www.doomovie-hd.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		desktop: "true"          
             },
@@ -102,80 +102,80 @@
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-history2", 
-		referer: "https://siamtv88.co/",desktop: "true"          
+		 "referer": "https://siamtv88.co/",desktop: "true"          
             },
 	    
 		{ 
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-		referer: "https://dooball66.com/","embed": "true"
+		 "referer": "https://dooball66.com/","embed": "true"
 },
 		{ 
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://we-play.live/watching/tv/discovery-channel",
-		referer: "https://we-play.live/",desktop: "true"
+		 "referer": "https://we-play.live/",desktop: "true"
                }, 
 		{ 
                "name": "geo-wild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/nat-geo-wild-hd.png",
                 "url": "https://www.we-play.live/watching/tv/nat-geo-wild",
-		referer: "https://www.we-play.live/",desktop: "true"	 
+		 "referer": "https://www.we-play.live/",desktop: "true"	 
                }, 
 		{ 
                "name": "natgeopeople",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/hd-natgeopeople.jpg",
                 "url": "https://we-play.live/watching/tv/national-geographic",
-		referer: "https://we-play.live/",desktop: "true"
+		 "referer": "https://we-play.live/",desktop: "true"
                }, 
 		{ 
                "name": "animalplanet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
                 "url": "https://we-play.live/watching/tv/animal-planet",
-		referer: "https://we-play.live/",desktop: "true"	 
+	       "referer": "https://we-play.live/",desktop: "true"	 
                }, 
 		{ 
                "name": "discovery",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-hd.png",
                 "url": "https://www.we-play.live/watching/tv/discovery-channel",
-		referer: "https://www.we-play.live/",desktop: "true"	 
+		 "referer": "https://www.we-play.live/",desktop: "true"	 
                }, 
 		{ 
                "name": "hd-discovery",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-asia.png",
                 "url": "https://www.we-play.live/watching/tv/discovery-asia",
-		referer: "https://www.we-play.live/",desktop: "true"	 
+		 "referer": "https://www.we-play.live/",desktop: "true"	 
                }, 
 		{ 
                "name": "history-h2",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history2.png",
                 "url": "https://www.we-play.live/watching/tv/history-h2",
-		referer: "https://www.we-play.live/",desktop: "true"		 
+		 "referer": "https://www.we-play.live/",desktop: "true"		 
                }, 
 		{ 
                "name": "history-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history-hd.png",
                 "url": "https://www.we-play.live/watching/tv/history-hd",
-		referer: "https://www.we-play.live/",desktop: "true"		 
+		 "referer": "https://www.we-play.live/",desktop: "true"		 
                }, 
 		{ 
                "name": "geographic",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/national-geographic.png",
                 "url": "https://www.we-play.live/watching/tv/national-geographic",
-		referer: "https://www.we-play.live/",desktop: "true"	 
+		 "referer": "https://www.we-play.live/",desktop: "true"	 
                },
 		{ 
                "name": "tlc-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png",
                 "url": "https://www.we-play.live/watching/tv/tlc-hd",	
-		referer: "https://www.we-play.live/",desktop: "true" 
+		 "referer": "https://www.we-play.live/",desktop: "true" 
                },
 		{ 
                "name": "bbc-earth",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
                 "url": https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",	
-		referer: https://livescorethai.net/",
+		 "referer": "https://livescorethai.net/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
 		desktop: "true" 
                },
@@ -183,26 +183,26 @@
                "name": "bbc-earth",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
                 "url": "https://freetvdd.com/สารคดี/bbc-earth/#",	
-		referer: "https://freetvdd.com/",
+		 "referer": "https://freetvdd.com/",
                 "embed": "true"
 },
 		{ 
                "name": "expwild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
                 "url": "https://www.doofree88.com/live/explore-wild",
-		referer: "https://www.doofree88.com/",desktop: "true" 
+		 "referer": "https://www.doofree88.com/",desktop: "true" 
                },
 		{ 
                "name": "explife",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-explife.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-explife",	
-		referer: "https://siamtv88.co/",desktop: "true"	 
+		 "referer": "https://siamtv88.co/",desktop: "true"	 
                },
 		{ 
                "name": "expsci",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expsci.png",
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci",
-		referer: "https://siamtv88.co/",desktop: "true"	 
+		 "referer": "https://siamtv88.co/",desktop: "true"	 
                },
 		{
 "name":"TRUE EXPLORE WILD",
@@ -255,7 +255,7 @@
                "name": "animal-planet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/animal-planet.png",
                 "url": "https://www.we-play.live/watching/tv/animal-planet",
-		referer: "https://www.we-play.live/",playInNatPlayer: "true"
+		 "referer": "https://www.we-play.live/",playInNatPlayer: "true"
                } 
              ]
            } 
