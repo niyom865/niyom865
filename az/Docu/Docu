@@ -28,8 +28,8 @@
 		{ 
                "name": "Discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
-                "url": "https://www.doofootball.com/dootv/live/discovery#main_dootv",
-                referer: "https://www.doofootball.com/dootv/live/",playInNatPlayer: "true","desktop":"true"
+                "url": "https://embed.dooball66.com/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+                referer: "https://dooball66.com/","embed": "true","desktop":"true"
             },
 	    { 
                "name": "Discovery",
@@ -42,8 +42,10 @@
 		{ 
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-discoveryasia", 
-		referer: "https://siamtv88.co/","desktop": "true"
+                "url": "https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8", 
+		referer: "https://livescorethai.net/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true"
 },
 { 
                "name": "discoveryasia",
@@ -65,8 +67,8 @@
 		{ 
                "name": "natgeo",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-natgeo.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-natgeo", 
-		referer: "https://siamtv88.co/",desktop: "true"        
+                "url": "https://we-play.live/watching/tv/national-geographic", 
+		referer: "https://we-play.live/",desktop: "true"        
             },
 		   { 
                "name": "history",
@@ -112,8 +114,8 @@
 		{ 
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-discovery",
-		referer: "https://siamtv88.co/",desktop: "true"
+                "url": "https://we-play.live/watching/tv/discovery-channel",
+		referer: "https://we-play.live/",desktop: "true"
                }, 
 		{ 
                "name": "geo-wild",
@@ -124,14 +126,14 @@
 		{ 
                "name": "natgeopeople",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/hd-natgeopeople.jpg",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-natgeopeople",
-		referer: "https://siamtv88.co/",desktop: "true"
+                "url": "https://we-play.live/watching/tv/national-geographic",
+		referer: "https://we-play.live/",desktop: "true"
                }, 
 		{ 
                "name": "animalplanet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-animalplanet",
-		referer: "https://siamtv88.co/",desktop: "true"	 
+                "url": "https://we-play.live/watching/tv/animal-planet",
+		referer: "https://we-play.live/",desktop: "true"	 
                }, 
 		{ 
                "name": "discovery",
@@ -172,8 +174,10 @@
 		{ 
                "name": "bbc-earth",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbcearth",	
-		referer: "https://siamtv88.co/",desktop: "true" 
+                "url": https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",	
+		referer: https://livescorethai.net/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
+		desktop: "true" 
                },
 	       { 
                "name": "bbc-earth",
@@ -185,8 +189,8 @@
 		{ 
                "name": "expwild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expwild",
-		referer: "https://siamtv88.co/",desktop: "true" 
+                "url": "https://www.doofree88.com/live/explore-wild",
+		referer: "https://www.doofree88.com/",desktop: "true" 
                },
 		{ 
                "name": "explife",
