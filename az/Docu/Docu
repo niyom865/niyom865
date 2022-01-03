@@ -29,7 +29,7 @@
                "name": "Discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
                 "url": "https://embed.dooball66.com/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-                "referer": "https://dooball66.com/","embed": "true","desktop":"true"
+                "referer": "https://dooball66.com/","embed": "true" 
             },
 	    { 
                "name": "Discovery",
@@ -82,13 +82,13 @@
                 "url": "https://www.wopep.com/02_HISTORYHD_720p/chunklist.m3u8", 
 		 "referer": "https://www.wopep.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
-		"embed": "true"            
+		"desktop": "true"           
             },
 		 { 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://www.wopep.com/02_H2HD_720p/chunklist.m3u8", 
-		 "referer": "https://www.wopep.com/","embed": "true"             
+		 "referer": "https://www.wopep.com/","desktop": "true"           
             },
 		{ 
                "name": "history2",
@@ -96,7 +96,7 @@
                 "url": "https://ilike.livedoomovie.com:4432/02_H2HD_720p/chunklist.m3u8", 
 		 "referer": "https://ilike.livedoomovie.com:4432/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
-		"embed": "true"          
+		"desktop": "true"         
             },
 	    { 
                "name": "history2",
@@ -133,7 +133,7 @@
                "name": "animalplanet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
                 "url": "https://smart-tv.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8",
-	       "referer":"https://dooball66.com/","embed": "true"		 
+	       "referer":"https://dooball66.com/","desktop": "true"		 
                }, 
 		{ 
                "name": "discovery",
