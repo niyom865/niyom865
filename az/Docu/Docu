@@ -42,16 +42,16 @@
 		{ 
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
-                "url": "https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8", 
-		 "referer": "https://livescorethai.net/",
+                "url": "https://www.wopep.com/02_DiscoveryHDWorld/chunklist.m3u8", 
+		 "referer": "https://www.wopep.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"
 },
 { 
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
-                "url": "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8", 
-		 "referer": "https://www.doomovie-hd.com/",
+                "url": "https://www.livedoomovie.com:4431/02_DiscoveryHDWorld/chunklist.m3u8", 
+		 "referer": "https://www.livedoomovie.com:4431/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"
 },
@@ -65,10 +65,10 @@
                 "referer": "https://dooball66.com/","embed": "true"
 },
 		{ 
-               "name": "natgeo",
-                "image": "https://overseer.blackboxsys.net/images/png/hd-natgeo.png",
-                "url": "https://we-play.live/watching/tv/national-geographic", 
-		 "referer": "https://we-play.live/",desktop: "true"        
+               "name": "animalplanet",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-animalplanet.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f", 
+		 "referer": "https://embed.dooball66.com/",embed: "true"        
             },
 		   { 
                "name": "history",
@@ -79,30 +79,30 @@
 		{ 
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
-                "url": "https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8", 
-		 "referer": "https://www.doomovie-hd.com/",
+                "url": "https://www.wopep.com/02_HISTORYHD_720p/chunklist.m3u8", 
+		 "referer": "https://www.wopep.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
-		desktop: "true"            
+		"embed": "true"            
             },
 		 { 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
-                "url": "https://www.we-play.live/watching/tv/history-h2", 
-		 "referer": "https://www.we-play.live/",desktop: "true"             
+                "url": "https://www.wopep.com/02_H2HD_720p/chunklist.m3u8", 
+		 "referer": "https://www.wopep.com/","embed": "true"             
             },
 		{ 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
-                "url": "https://livedoomovie.com/02_H2HD_720p/chunklist.m3u8", 
-		 "referer": "https://www.doomovie-hd.com/",
+                "url": "https://ilike.livedoomovie.com:4432/02_H2HD_720p/chunklist.m3u8", 
+		 "referer": "https://ilike.livedoomovie.com:4432/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
-		desktop: "true"          
+		"embed": "true"          
             },
 	    { 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-history2", 
-		 "referer": "https://siamtv88.co/",desktop: "true"          
+                "url": "https://embed.dooball66.com/player.php?channel=hd-history2&api_key=hmcb4rf66f", 
+		 "referer": "https://embed.dooball66.com/","embed": "true"          
             },
 	    
 		{ 
@@ -114,14 +114,14 @@
 		{ 
                "name": "sd-discovery",
                 "image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
-                "url": "https://we-play.live/watching/tv/discovery-channel",
-		 "referer": "https://we-play.live/",desktop: "true"
+                "url": "https://embed.dooball66.com/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
                }, 
 		{ 
                "name": "geo-wild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/nat-geo-wild-hd.png",
-                "url": "https://www.we-play.live/watching/tv/nat-geo-wild",
-		 "referer": "https://www.we-play.live/",desktop: "true"	 
+                "url": "https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"	 
                }, 
 		{ 
                "name": "natgeopeople",
@@ -132,8 +132,8 @@
 		{ 
                "name": "animalplanet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
-                "url": "https://we-play.live/watching/tv/animal-planet",
-	       "referer": "https://we-play.live/",desktop: "true"	 
+                "url": "https://smart-tv.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8",
+	       "referer":"https://dooball66.com/","embed": "true"		 
                }, 
 		{ 
                "name": "discovery",
@@ -189,8 +189,8 @@
 		{ 
                "name": "expwild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
-                "url": "https://www.doofree88.com/live/explore-wild",
-		 "referer": "https://www.doofree88.com/",desktop: "true" 
+                "url": "https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
                },
 		{ 
                "name": "explife",
@@ -204,6 +204,156 @@
                 "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci",
 		 "referer": "https://siamtv88.co/",desktop: "true"	 
                },
+	{ 
+               "name": "asianmore",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-asianmore.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-asianmore&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               }, 
+
+
+
+{ 
+               "name": "chinesemore",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-chinesemore.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-chinesemore&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               }, 
+
+
+{ 
+               "name": "koreanmore",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-koreanmore.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               }, 
+
+
+{ 
+               "name": "axn",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-axn.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-axn&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               }, 
+
+
+{ 
+               "name": "hd-rtlcbs",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-rtlcbs.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-rtlcbs&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "hd-rtlcbsextreme",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-rtlcbsextreme.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-rtlcbsextreme&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-tfilm",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-tfilm.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-tfilm2",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-tfilm2.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-kbsworld",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-kbsworld.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-kbsworld&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "sd-moviehits",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-moviehits.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-paramount",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-paramount.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-paramount&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "sd-series",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-series.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-series&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "sd-thaifilm",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-thaifilm.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "sd-tvb",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-tvb.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-tvb&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-warnertv",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-warnertv.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-warnertv&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-xzyte",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-xzyte.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-xzyte&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-dreamworks",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-dreamworks.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-dreamworks&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+{ 
+               "name": "hd-food",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-food.png",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-food&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+{ 
+               "name": "sd-asianfood",
+                "image": "https://overseer.blackboxsys.net/images/png/sd-asianfood.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-asianfood&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },
+
+
+{ 
+               "name": "hd-tlc",
+                "image": "https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",
+                "url": "https://embed.dooball66.com/player.php?channel=hd-tlc&api_key=hmcb4rf66f",
+		 "referer": "https://dooball66.com/","embed": "true"
+               },       
+	       
+	       
 		{
 "name":"TRUE EXPLORE WILD",
 "image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
