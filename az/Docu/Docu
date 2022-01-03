@@ -168,8 +168,8 @@
 		{ 
                "name": "tlc-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png",
-                "url": "https://www.we-play.live/watching/tv/tlc-hd",	
-		 "referer": "https://www.we-play.live/",desktop: "true" 
+                "url": "https://www.doofootball.com/dootv/live/tlc#main_dootv",	
+		 "referer": "https://www.doofootball.com/",desktop: "true" 
                },
 		{ 
                "name": "bbc-earth",
@@ -393,11 +393,10 @@
 },
 
 {
-"name":"geo-wild",
-"image":"https://we-play.live/uploads/posters/nat-geo-wild-poster1602705760.jpeg",
-"url":"https://www.we-play.live/watching/tv/nat-geo-wild",
+"name":"hitsmovie",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051953-HIT-MOVIES.png",
+"url":"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
-"embed": "true",
 "desktop": "true"
 },
 
