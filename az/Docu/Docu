@@ -169,7 +169,7 @@
                "name": "tlc-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png",
                 "url": "https://www.doofootball.com/dootv/live/tlc#main_dootv",	
-		 "referer": "https://www.doofootball.com/",desktop: "true" 
+		 "referer": "https://www.doofootball.com/","playInNatPlayer": "true" 
                },
 		{ 
                "name": "bbc-earth",
