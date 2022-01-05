@@ -135,41 +135,48 @@
                 "url": "https://smart-tv.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8",
 	       "referer":"https://dooball66.com/","desktop": "true"		 
                }, 
+	       { 
+               "name": "animalplanet",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
+                "url": "https://we-play.live/watching/tv/animal-planet",
+	       "referer":"https://dooball66.com/","desktop": "true"		 
+               }, 
+	       
 		{ 
                "name": "discovery",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-hd.png",
                 "url": "https://www.we-play.live/watching/tv/discovery-channel",
-		 "referer": "https://www.we-play.live/",desktop: "true"	 
+		 "referer": "https://www.we-play.live/","desktop": "true" 
                }, 
 		{ 
                "name": "hd-discovery",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-asia.png",
                 "url": "https://www.we-play.live/watching/tv/discovery-asia",
-		 "referer": "https://www.we-play.live/",desktop: "true"	 
+		 "referer": "https://www.we-play.live/","desktop": "true" 
                }, 
 		{ 
                "name": "history-h2",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history2.png",
                 "url": "https://www.we-play.live/watching/tv/history-h2",
-		 "referer": "https://www.we-play.live/",desktop: "true"		 
+		 "referer": "https://www.we-play.live/","desktop": "true"		 
                }, 
 		{ 
                "name": "history-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history-hd.png",
                 "url": "https://www.we-play.live/watching/tv/history-hd",
-		 "referer": "https://www.we-play.live/",desktop: "true"		 
+		 "referer": "https://www.we-play.live/","desktop": "true"		 
                }, 
 		{ 
                "name": "geographic",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/national-geographic.png",
                 "url": "https://www.we-play.live/watching/tv/national-geographic",
-		 "referer": "https://www.we-play.live/",desktop: "true"	 
+		 "referer": "https://www.we-play.live/","desktop": "true"	 
                },
 		{ 
                "name": "tlc-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png",
-                "url": "https://www.doofootball.com/dootv/live/tlc#main_dootv",	
-		 "referer": "https://www.doofootball.com/","playInNatPlayer": "true" 
+                "url": "https://we-play.live/watching/tv/tlc-hd",	
+		 "referer": "https://www.doofootball.com/","desktop": "true" 
                },
 		{ 
                "name": "bbc-earth",
@@ -177,7 +184,7 @@
                 "url":"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",	
 		 "referer": "https://livescorethai.net/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
-		desktop: "true" 
+		"desktop": "true" 
                },
 	       { 
                "name": "bbc-earth",
@@ -349,8 +356,8 @@
 { 
                "name": "hd-tlc",
                 "image": "https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",
-                "url": "https://embed.dooball66.com/player.php?channel=hd-tlc&api_key=hmcb4rf66f",
-		 "referer": "https://dooball66.com/","embed": "true"
+                "url": "https://we-play.live/watching/tv/tlc-hd",
+		 "referer": "https://dooball66.com/","desktop": "true"
                },       
 	       
 	       
