@@ -186,6 +186,15 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
 		"desktop": "true" 
                },
+	       
+	        { 
+               "name": "bbc-earth",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
+                "url": "https://embed.dooball66.com/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",	
+		 "referer": "https://dooball66.com/ดูทีวีออนไลน์/",
+                "embed": "true"
+},
+	       
 	       { 
                "name": "bbc-earth",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/bbc-earth.png",
