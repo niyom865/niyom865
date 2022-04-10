@@ -42,16 +42,16 @@
 		{ 
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
-                "url": "https://www.wopep.com/02_DiscoveryHDWorld/chunklist.m3u8", 
-		 "referer": "https://www.wopep.com/",
+                "url": "https://www.doomovie-hd.com/?r=tv_view&id=57", 
+		 "referer": "https://www.doomovie-hd.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"
 },
 { 
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
-                "url": "https://www.livedoomovie.com:4431/02_DiscoveryHDWorld/chunklist.m3u8", 
-		 "referer": "https://www.livedoomovie.com:4431/",
+                "url": "https://www.ilike-movie.com/player/c/57/DISCOVERY-HD-WORLD-57/37653.html", 
+		 "referer": "https://www.ilike-movie.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"
 },
@@ -79,22 +79,22 @@
 		{ 
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
-                "url": "https://www.wopep.com/02_HISTORYHD_720p/chunklist.m3u8", 
-		 "referer": "https://www.wopep.com/",
+                "url": "https://www.ilike-movie.com/player/c/59/HISTORY-HD-59/37655.html", 
+		 "referer": "https://www.ilike-movie.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"           
             },
 		 { 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
-                "url": "https://www.wopep.com/02_H2HD_720p/chunklist.m3u8", 
-		 "referer": "https://www.wopep.com/","desktop": "true"           
+                "url": "https://www.ilike-movie.com/player/c/58/HISTORY2-HD-58/37654.html", 
+		 "referer": "https://www.ilike-movie.com/","desktop": "true"           
             },
 		{ 
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
-                "url": "https://ilike.livedoomovie.com:4432/02_H2HD_720p/chunklist.m3u8", 
-		 "referer": "https://ilike.livedoomovie.com:4432/",
+                "url": "https://www.doomovie-hd.com/?r=tv_view&id=58", 
+		 "referer": "https://www.doomovie-hd.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"         
             },
