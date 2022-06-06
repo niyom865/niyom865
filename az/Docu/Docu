@@ -126,8 +126,8 @@
 		{ 
                "name": "natgeopeople",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/hd-natgeopeople.jpg",
-                "url": "https://we-play.live/watching/tv/national-geographic",
-		 "referer": "https://we-play.live/",desktop: "true"
+                "url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv",
+		  "referer": "https://www.doofootball.com/","embed": "true"
                }, 
 		{ 
                "name": "animalplanet",
@@ -138,45 +138,45 @@
 	       { 
                "name": "animalplanet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
-                "url": "https://we-play.live/watching/tv/animal-planet",
-	       "referer":"https://dooball66.com/","desktop": "true"		 
+                "url": "https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+	      "referer": "https://www.doofootball.com/","embed": "true"		 
                }, 
 	       
 		{ 
                "name": "discovery",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-hd.png",
-                "url": "https://www.we-play.live/watching/tv/discovery-channel",
-		 "referer": "https://www.we-play.live/","desktop": "true" 
+                "url": "https://www.doofootball.com/dootv/live/discovery#main_dootv",
+		 "referer": "https://www.doofootball.com/","embed": "true"	 
                }, 
 		{ 
                "name": "hd-discovery",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/discovery-asia.png",
-                "url": "https://www.we-play.live/watching/tv/discovery-asia",
-		 "referer": "https://www.we-play.live/","desktop": "true" 
+                "url": "https://www.doofootball.com/dootv/live/discovery#main_dootv",
+		 "referer": "https://www.doofootball.com/","embed": "true" 
                }, 
 		{ 
                "name": "history-h2",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history2.png",
-                "url": "https://www.we-play.live/watching/tv/history-h2",
-		 "referer": "https://www.we-play.live/","desktop": "true"		 
+                "url": "https://www.ilike-movie.com/player/c/58/HISTORY2-HD-58/37654.html",
+		 "referer": "https://www.ilike-movie.com/","desktop": "true"		 
                }, 
 		{ 
                "name": "history-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history-hd.png",
-                "url": "https://www.we-play.live/watching/tv/history-hd",
-		 "referer": "https://www.we-play.live/","desktop": "true"		 
+                "url": "https://www.doofootball.com/dootv/live/history#main_dootv",
+		 "referer": "https://www.doofootball.com/","embed": "true"		 
                }, 
 		{ 
                "name": "geographic",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/national-geographic.png",
-                "url": "https://www.we-play.live/watching/tv/national-geographic",
-		 "referer": "https://www.we-play.live/","desktop": "true"	 
+                "url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv",
+		 "referer": "https://www.doofootball.com/","embed": "true"	 
                },
 		{ 
                "name": "tlc-hd",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png",
-                "url": "https://we-play.live/watching/tv/tlc-hd",	
-		 "referer": "https://www.doofootball.com/","desktop": "true" 
+                "url": "https://www.doofootball.com/dootv/live/tlc#main_dootv",	
+		 "referer": "https://www.doofootball.com/","embed": "true"
                },
 		{ 
                "name": "bbc-earth",
@@ -211,14 +211,14 @@
 		{ 
                "name": "explife",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-explife.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-explife",	
-		 "referer": "https://siamtv88.co/",desktop: "true"	 
+                "url": "https://www.doofootball.com/dootv/live/truelife#main_dootv",	
+		 "referer": "https://www.doofootball.com/","embed": "true"	 
                },
 		{ 
                "name": "expsci",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expsci.png",
-                "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci",
-		 "referer": "https://siamtv88.co/",desktop: "true"	 
+                "url": "https://www.doofootball.com/dootv/live/truesci#main_dootv",
+		 "referer": "https://www.doofootball.com/","embed": "true"	 
                },
 	{ 
                "name": "asianmore",
