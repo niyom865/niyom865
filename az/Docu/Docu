@@ -76,6 +76,15 @@
                 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
               "referer": "https://dooball66.com/","embed": "true"
 },
+             { 
+               "name": "history",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
+                "url": "https://www.livedoomovies.com:4431/02_HISTORYHD_720p/chunklist.m3u8", 
+		 "referer": "https://www.livedoomovies.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true"           
+            },
+	    
 		{ 
                "name": "history",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
@@ -88,7 +97,9 @@
                "name": "history2",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-history2.png",
                 "url": "https://www.ilike-movie.com/player/c/58/HISTORY2-HD-58/37654.html", 
-		 "referer": "https://www.ilike-movie.com/","desktop": "true"           
+		 "referer": "https://www.ilike-movie.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true"         
             },
 		{ 
                "name": "history2",
@@ -133,7 +144,9 @@
                "name": "animalplanet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-animalplanet.png",
                 "url": "https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
-	       "referer":"https://dooball66.com/","desktop": "true"		 
+	        "referer": "https://www.doomovie-hd.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true"		 
                }, 
 	       { 
                "name": "animalplanet",
@@ -157,8 +170,10 @@
 		{ 
                "name": "history-h2",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/history2.png",
-                "url": "https://www.ilike-movie.com/player/c/58/HISTORY2-HD-58/37654.html",
-		 "referer": "https://www.ilike-movie.com/","desktop": "true"		 
+                "url": "https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8",
+		  "referer": "https://www.livedoomovies.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true" 		 
                }, 
 		{ 
                "name": "history-hd",
