@@ -47,6 +47,16 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"
 },
+    		{ 
+               "name": "discoveryasia",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
+                "url": "https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8", 
+		 "referer": "https://streaming.livescorethai.net/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true"
+},
+
+
 { 
                "name": "discoveryasia",
                 "image": "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
@@ -84,6 +94,15 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
 		"desktop": "true"           
             },
+	     { 
+               "name": "history",
+                "image": "https://overseer.blackboxsys.net/images/png/hd-history.png",
+                "url": "https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8", 
+		 "referer": "https://streaming.livescorethai.net/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true"           
+            },
+	    
 	    
 		{ 
                "name": "history",
@@ -128,6 +147,15 @@
                 "url": "https://embed.dooball66.com/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
 		 "referer": "https://dooball66.com/","embed": "true"
                }, 
+	       { 
+               "name": "geo-wild",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/nat-geo-wild-hd.png",
+                "url": "https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8",
+		"referer": "https://streaming.livescorethai.net/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+		"desktop": "true"        	 
+               }, 
+	       
 		{ 
                "name": "geo-wild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/nat-geo-wild-hd.png",
