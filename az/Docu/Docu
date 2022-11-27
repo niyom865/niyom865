@@ -408,19 +408,16 @@
 { 
                "name": "hd-tlc",
                 "image": "https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",
-                "url": "https://we-play.live/watching/tv/tlc-hd",
-		 "referer": "https://dooball66.com/","desktop": "true"
+                "url": "https://www.doofootball.com/dootv/live/tlc#main_dootv",
+		 "referer": "https://dooball66.com/","embed": "true"
                },       
 	       
 	       
 		{
 "name":"one",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052055-one31.png",
-"url":"https://cdn774.stm.trueid.net/live1/d56_w_auto_tidapp.smil/chunklist_w1666587166_b2721872_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=afe8c6368e&did=MTY1NTU1Njg5Mw&mpass=KREjN4riKD8YcS9___5q7JF1oMF_DJu0i0cMXzx84rTzQrHzQL_lGDNofkDVOE1ccoXrFLl8Aei0W-P8dsEjKnBOVKfGGvhF23V2pS7X-eo6OqoDZM266G3A646jMMPwtak&sid=3dae10c9f0&rt=1655556892&tk=AQqvZgkI09UaWeze6s7rr9xuhecsFubjMi0ilNxagfg",
-"url":"https://cdn774.stm.trueid.net/live1/d56_w_auto_tidapp.smil/chunklist_w1666587166_b65536_ao_sltha_t64VGhhaQ==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=afe8c6368e&did=MTY1NTU1Njg5Mw&mpass=KREjN4riKD8YcS9___5q7JF1oMF_DJu0i0cMXzx84rTzQrHzQL_lGDNofkDVOE1ccoXrFLl8Aei0W-P8dsEjKnBOVKfGGvhF23V2pS7X-eo6OqoDZM266G3A646jMMPwtak&sid=3dae10c9f0&rt=1655556892&tk=AQqvZgkI09UaWeze6s7rr9xuhecsFubjMi0ilNxagfg",
-"referer": "https://tv.trueid.net/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36", 
-"desktop": "true"
+"url":"https://www.doofootball.com/dootv/live/onehd#main_dootv",
+ "referer": "https://tv.trueid.net/","embed": "true"
 },
  
 
@@ -442,30 +439,27 @@
 "name":"zee-nung",
 "image":"https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",
 "url":"https://tv.trueid.net/embed/zee-nung?autoplay=yes&nopageview=yes",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"desktop": "true"
+ "referer": "https://tv.trueid.net/","embed": "true"
 },
 {
 "name":"jkn18",
 "image":"https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png",
 "url":"https://tv.trueid.net/embed/jkn18?autoplay=yes&nopageview=yes",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"desktop": "true"
+ "referer": "https://tv.trueid.net/","embed": "true"
 },
 
 {
 "name":"hitsmovie",
 "image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051953-HIT-MOVIES.png",
 "url":"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", 
-"desktop": "true"
+ "referer": "https://dooball66.com/","embed": "true"
 },
 
               { 
                "name": "animal-planet",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/animal-planet.png",
-                "url": "https://www.we-play.live/watching/tv/animal-planet",
-		 "referer": "https://www.we-play.live/",playInNatPlayer: "true"
+                "url": "https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+		 "referer": "https://dooball66.com/","embed": "true"
                } 
              ]
            } 
