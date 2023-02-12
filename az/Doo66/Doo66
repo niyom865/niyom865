@@ -104,7 +104,7 @@ url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=hm
 
 
 {name: "hd-history2",image: "https://www.img03.xyz/assets/img/ch_logo/hd-history2.png",
-url: "https://we-play.live/watching/tv/history-h2",referer: "https://dooball66.com/","desktop": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 }, 
 
 
@@ -138,7 +138,7 @@ url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&a
 {name: "koreanmore",image: "https://rentapi.blackboxsys.net/images/png/hd-koreanmore.png",
 url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 }, 
-}, 
+ 
 {name: "hd-lifetime",image: "https://rentapi.blackboxsys.net/images/png/hd-lifetime.png",
 url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 }, 
