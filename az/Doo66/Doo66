@@ -108,8 +108,8 @@ url: "https://we-play.live/watching/tv/history-h2",referer: "https://dooball66.c
 }, 
 
 
-{name: "natgeowild",image: "https://www.img03.xyz/assets/img/ch_logo/hd-natgeowild.jpg",
-url: "https://we-play.live/watching/tv/nat-geo-wild",referer: "https://dooball66.com/","desktop": "true"
+{name: "natgeowild",image: "https://rentapi.blackboxsys.net/images/png/hd-natgeo.png",
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 }, 
 
 {name: "tlc-hd",image: "https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",
@@ -129,11 +129,26 @@ url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=h
 url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbclifestyle&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 }, 
 
+{name: "asianmore",image: "https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+{name: "chinesemore",image: "https://rentapi.blackboxsys.net/images/png/hd-chinesemore.png",
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+{name: "koreanmore",image: "https://rentapi.blackboxsys.net/images/png/hd-koreanmore.png",
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
+}, 
+{name: "hd-lifetime",image: "https://rentapi.blackboxsys.net/images/png/hd-lifetime.png",
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
 
 {name: "hd-asian",image: "https://overseer.blackboxsys.net/images/png/hd-asian.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
 }, 
-
+{name: "sd-series",image: "https://rentapi.blackboxsys.net/images/png/sd-series.png",
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+}, 
 
 {name: "hd-tfilm2",image: "https://overseer.blackboxsys.net/images/png/hd-tfilm2.png",
 url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
