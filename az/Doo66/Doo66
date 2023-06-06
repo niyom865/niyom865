@@ -8,54 +8,54 @@
 "webviewType": "chrome", "embed": true },
 
 {name: "sd-nbt",image: "https://overseer.blackboxsys.net/images/png/sd-nbt.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-nbt&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-nbt&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 
 {name: "hd-amarin",image: "https://overseer.blackboxsys.net/images/png/hd-amarin.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 
 {name: "hd-ch3",image: "https://overseer.blackboxsys.net/images/png/hd-ch3.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch3&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch3&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "hd-ch5",image: "https://overseer.blackboxsys.net/images/png/hd-ch5.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "hd-ch7",image: "https://overseer.blackboxsys.net/images/png/hd-ch7.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-ch8",image: "https://overseer.blackboxsys.net/images/png/hd-ch8.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-gmmchannel",image: "https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-gmmchannel&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-gmmchannel&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-gmmone.png",image: "https://overseer.blackboxsys.net/images/png/hd-gmmone.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "hd-mono",image: "https://overseer.blackboxsys.net/images/png/hd-mono.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-mono&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-mono&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-nation",image: "https://overseer.blackboxsys.net/images/png/sd-nation.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-nation&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-nation&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-new",image: "https://overseer.blackboxsys.net/images/png/sd-new.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-pptv",image: "https://overseer.blackboxsys.net/images/png/hd-pptv.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-tptv",image: "https://overseer.blackboxsys.net/images/png/sd-tptv.png",
@@ -63,53 +63,53 @@ url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=kmf74
 }, 
 
 {name: "hd-tpbs",image: "https://overseer.blackboxsys.net/images/png/hd-tpbs.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tptv&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-thairath",image: "https://overseer.blackboxsys.net/images/png/hd-thairath.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-thairath&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-thairath&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-tnn24",image: "https://overseer.blackboxsys.net/images/png/sd-tnn24.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tnn24&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tnn24&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-24u",image: "https://overseer.blackboxsys.net/images/png/sd-24u.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-24u&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-24u&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-voice",image: "https://overseer.blackboxsys.net/images/png/sd-voice.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-voice&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-voice&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-workpoint",image: "https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-animalplanet",image: "https://overseer.blackboxsys.net/images/png/sd-animalplanet.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-discovery",image: "https://overseer.blackboxsys.net/images/png/hd-discovery.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-discovery",image: "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-history",image: "https://overseer.blackboxsys.net/images/png/hd-history.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "hd-history2",image: "https://www.img03.xyz/assets/img/ch_logo/hd-history2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "natgeowild",image: "https://rentapi.blackboxsys.net/images/png/hd-natgeo.png",
-url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "tlc-hd",image: "https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",
@@ -121,436 +121,436 @@ url: "https://we-play.live/watching/tv/tlc-hd",referer: "https://dooball66.com/"
 
 
 {name: "sd-bbcearth",image: "https://www.img03.xyz/assets/img/ch_logo/sd-bbcearth.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "sd-bbclifestyle",image: "https://www.img03.xyz/assets/img/ch_logo/sd-bbclifestyle.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbclifestyle&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbclifestyle&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "asianmore",image: "https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",
-url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-asianmore&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-asianmore&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 {name: "chinesemore",image: "https://rentapi.blackboxsys.net/images/png/hd-chinesemore.png",
-url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 {name: "koreanmore",image: "https://rentapi.blackboxsys.net/images/png/hd-koreanmore.png",
-url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
  
 {name: "hd-lifetime",image: "https://rentapi.blackboxsys.net/images/png/hd-lifetime.png",
-url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-asian",image: "https://overseer.blackboxsys.net/images/png/hd-asian.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 {name: "sd-series",image: "https://rentapi.blackboxsys.net/images/png/sd-series.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-tfilm2",image: "https://overseer.blackboxsys.net/images/png/hd-tfilm2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-tfilm",image: "https://overseer.blackboxsys.net/images/png/hd-tfilm.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "sd-moviehits",image: "https://overseer.blackboxsys.net/images/png/sd-moviehits.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "sd-thaifilm",image: "https://overseer.blackboxsys.net/images/png/sd-thaifilm.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-inside",image: "https://overseer.blackboxsys.net/images/png/sd-inside.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-inside&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-inside&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-xzyte",image: "https://overseer.blackboxsys.net/images/png/hd-xzyte.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-tvb",image: "https://overseer.blackboxsys.net/images/png/sd-tvb.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tvb&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tvb&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-warnertv",image: "https://overseer.blackboxsys.net/images/png/hd-warnertv.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-paramount",image: "https://overseer.blackboxsys.net/images/png/hd-paramount.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-foxpremium",image: "https://overseer.blackboxsys.net/images/png/hd-foxpremium.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxpremium&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxpremium&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-foxaction",image: "https://overseer.blackboxsys.net/images/png/hd-foxaction.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxaction&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxaction&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-foxfamily",image: "https://overseer.blackboxsys.net/images/png/hd-foxfamily.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxfamily&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxfamily&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "sd-fox",image: "https://overseer.blackboxsys.net/images/png/sd-fox.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-fox&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-fox&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 {name: "hd-rtlcbs",image: "https://overseer.blackboxsys.net/images/png/hd-rtlcbs.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbs&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbs&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 {name: "hd-rtlcbsextreme",image: "https://overseer.blackboxsys.net/images/png/hd-rtlcbsextreme.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 }, 
 
 
 
 {name: "Foxsports1",image: "https://i.imgur.com/8XcXaof.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Foxsports2",image: "https://i.imgur.com/gfBvo1Z.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Foxsports3",image: "https://i.imgur.com/NqEEbOT.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports3&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-foxsports3&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "True Premier hd1",image: "https://www.movieclubhd.tv/src/images/live/premierhd1_720.jpg",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "True Premier hd2",image: "https://www.movieclubhd.tv/src/images/live/premierhd2_720.jpg",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "True Premier hd3",image: "https://www.movieclubhd.tv/src/images/live/premierhd3_720.jpg",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "True Premier hd4",image: "https://www.movieclubhd.tv/src/images/live/premierhd4_720.jpg",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "True Premier hd5",image: "https://www.movieclubhd.tv/src/images/live/premierhd5_720.jpg",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Truesport HD",image: "https://overseer.blackboxsys.net/images/png/hd-tsport1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Truesport HD2",image: "https://overseer.blackboxsys.net/images/png/hd-tsport2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Truesport HD3",image: "https://overseer.blackboxsys.net/images/png/hd-tsport3.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Truesport HD4",image: "https://overseer.blackboxsys.net/images/png/hd-tsport4.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "True Tennis",image: "https://overseer.blackboxsys.net/images/png/hd-tennis.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "True NBA",image: "https://overseer.blackboxsys.net/images/png/hd-nba.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-nba&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-nba&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "True Golf",image: "https://i.imgur.com/Js8zTDy.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-golf&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-golf&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "NFL Network",image: "https://i.imgur.com/iFphmoC.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-nfl&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-nfl&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "T Sports",image: "https://overseer.blackboxsys.net/images/png/sd-tsports.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "beInSport 1TH",image: "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "beInSport 2TH",image: "https://overseer.blackboxsys.net/images/png/epl-bein2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "beInSport 1 Fr",image: "https://overseer.blackboxsys.net/images/png/fr-bein1hd.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "beInSport 2 Fr",image: "https://overseer.blackboxsys.net/images/png/fr-bein2hd.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "beInSport 3 Fr",image: "https://overseer.blackboxsys.net/images/png/fr-bein3hd.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "beInmax 4 Fr",image: "https://overseer.blackboxsys.net/images/png/fr-beinsportmax4.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax4&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax4&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "beInmax 6 Fr",image: "https://overseer.blackboxsys.net/images/png/fr-beinsportmax6.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax6&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax6&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "beInmax 7 Fr",image: "https://overseer.blackboxsys.net/images/png/fr-beinsportmax7.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax7&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax7&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Dell sport 1",image: "https://overseer.blackboxsys.net/images/png/de-bblsport1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Dell sport 2",image: "https://overseer.blackboxsys.net/images/png/de-bblsport2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Dell sport 3",image: "https://overseer.blackboxsys.net/images/png/de-bblsport3.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport3&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport3&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Dell sport 6",image: "https://overseer.blackboxsys.net/images/png/de-bblsport6.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport6&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport6&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Sky Bundesliga",image: "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Skysport Austria",image: "https://overseer.blackboxsys.net/images/png/de-skysportaustria.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysportaustria&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysportaustria&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Skysport 1De",image: "https://overseer.blackboxsys.net/images/png/de-skysport1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Skysport 2De",image: "https://overseer.blackboxsys.net/images/png/de-skysport2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Sport digital",image: "https://overseer.blackboxsys.net/images/png/de-sportdigital.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-sportdigital&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-sportdigital&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Sport1 plus",image: "https://overseer.blackboxsys.net/images/png/de-sport1plus.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=de-sport1plus&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=de-sport1plus&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "eirsport 1",image: "https://overseer.blackboxsys.net/images/png/ie-eirsport1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "eirsport 2",image: "https://overseer.blackboxsys.net/images/png/ie-eirsport2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {
 "name": "Astro SuperSport",
 "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
 {
 "name": "Astro SuperSport 2",
 "image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
 {
 "name": "Astro SuperSport 3",
 "image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
 {
 "name": "Astro SuperSport 4",
 "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
 {
 "name": "supersport2",
 "image": "https://overseer.blackboxsys.net/images/png/af-supersport2.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport2&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
 {
 "name": "supersport3",
 "image": "https://overseer.blackboxsys.net/images/png/af-supersport3.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport3&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
 {
 "name": "supersport9",
 "image": "https://overseer.blackboxsys.net/images/png/af-supersport9.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport9&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
 {
 "name": "supersport11",
 "image": "https://overseer.blackboxsys.net/images/png/af-supersport11.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport11&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
 {
 "name": "supersport12",
 "image": "https://overseer.blackboxsys.net/images/png/af-supersport12.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport12&api_key=kmf743jnd",
-"referer": "https://dooball66.com/",
+"referer": "https://ufac4.net",
 "embed": "true"
 },
-{name: "Supersport1",image:"https://i.imgur.com/iCvi0pM.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"},
-{name: "Supersport4",image:"https://i.imgur.com/gN5QQ7m.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport4&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"},
-{name: "Supersport5",image:"https://i.imgur.com/4V8O3Ls.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport5&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"},
-{name: "Supersport6",image:"https://i.imgur.com/LcpX8qX.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport6&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"},
-{name: "Supersport7",image:"https://i.imgur.com/Q9EeatP.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport7&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"},
-{name: "Supersport8",image:"https://i.imgur.com/zXqLFjM.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport8&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"},
-{name: "Supersport10",image:"https://i.imgur.com/tcm4lbD.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport10&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"},
+{name: "Supersport1",image:"https://i.imgur.com/iCvi0pM.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"},
+{name: "Supersport4",image:"https://i.imgur.com/gN5QQ7m.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport4&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"},
+{name: "Supersport5",image:"https://i.imgur.com/4V8O3Ls.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport5&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"},
+{name: "Supersport6",image:"https://i.imgur.com/LcpX8qX.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport6&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"},
+{name: "Supersport7",image:"https://i.imgur.com/Q9EeatP.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport7&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"},
+{name: "Supersport8",image:"https://i.imgur.com/zXqLFjM.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport8&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"},
+{name: "Supersport10",image:"https://i.imgur.com/tcm4lbD.png",url: "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport10&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"},
 {name: "Sportsnet 360",image: "https://overseer.blackboxsys.net/images/png/ca-sportsnet360.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet360&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet360&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Sportsnet world",image: "https://overseer.blackboxsys.net/images/png/ca-sportsnetworld.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnetworld&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnetworld&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "TSN 1",image: "https://overseer.blackboxsys.net/images/png/ca-tsn1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "TSN 2",image: "https://overseer.blackboxsys.net/images/png/ca-tsn2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "TSN 3",image: "https://overseer.blackboxsys.net/images/png/ca-tsn3.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "TSN 4",image: "https://overseer.blackboxsys.net/images/png/ca-tsn4.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "TSN 5",image: "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 1 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 2 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 3 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein3.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 5 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein5.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 6 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein6.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 7 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein7.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 8 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein8.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 9 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein9.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 10 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein10.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 11 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein11.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein 12 qa",image: "https://overseer.blackboxsys.net/images/png/hd-bein12.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Mysports 1",image: "https://overseer.blackboxsys.net/images/png/ch-mysports1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Mysports 2",image: "https://overseer.blackboxsys.net/images/png/ch-mysports2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Teleclub sport 1",image: "https://overseer.blackboxsys.net/images/png/ch-teleclubsport1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ch-teleclubsport1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ch-teleclubsport1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Teleclub sport 2",image: "https://overseer.blackboxsys.net/images/png/ch-teleclubsport2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=ch-teleclubsport2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=ch-teleclubsport2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Bein US",image: "https://overseer.blackboxsys.net/images/png/us-bein.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=us-bein&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=us-bein&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "ESPN US",image: "https://overseer.blackboxsys.net/images/png/us-espn1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=us-espn1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=us-espn1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "ESPN 2 US",image: "https://overseer.blackboxsys.net/images/png/us-espn2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=us-espn2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=us-espn2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Fox sports1 US",image: "https://overseer.blackboxsys.net/images/png/us-foxsports1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=us-foxsports1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=us-foxsports1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "Fox sports2 US",image: "https://overseer.blackboxsys.net/images/png/us-foxsports2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=us-foxsports2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=us-foxsports2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "GOLF NBC",image: "https://overseer.blackboxsys.net/images/png/us-nbcgolf.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=us-nbcgolf&api_kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=us-nbcgolf&api_kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "WWE US",image: "https://overseer.blackboxsys.net/images/png/us-wwe.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "BT Sport hd1",image: "https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "BT Sport hd2",image: "https://overseer.blackboxsys.net/images/png/uk-btsport2hd.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "BT Sport hd3",image: "https://overseer.blackboxsys.net/images/png/uk-btsport3hd.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "BT Sport Extra 1",image: "https://overseer.blackboxsys.net/images/png/uk-btsportextra1.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra1&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra1&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "BT Sport Extra 2",image: "https://overseer.blackboxsys.net/images/png/uk-btsportextra2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "BT Sport Extra 4",image: "https://overseer.blackboxsys.net/images/png/uk-btsportextra4.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra4&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra4&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "EUROSPORT 1",image: "https://overseer.blackboxsys.net/images/png/uk-eurosport.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "EUROSPORT 2",image: "https://overseer.blackboxsys.net/images/png/uk-eurosport2.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS 1 UK",image: "https://overseer.blackboxsys.net/images/png/uk-skysports1bkp.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports1bkp&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports1bkp&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS 2 UK",image: "https://overseer.blackboxsys.net/images/png/uk-skysports2bkp.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports2bkp&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports2bkp&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS 3 UK",image: "https://overseer.blackboxsys.net/images/png/uk-skysports3bkp.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports3bkp&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports3bkp&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS 4 UK",image: "https://overseer.blackboxsys.net/images/png/uk-skysports4bkp.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports4bkp&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports4bkp&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS F1 UK",image: "https://overseer.blackboxsys.net/images/png/uk-skysportsf1bkp.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS ACTION",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-action.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS ARENA",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-arena.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hkmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hkmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS CRICKET",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-cricket.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS FOOTBALL",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-football.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS GOLF",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-golf.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS MAINEVENT",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-mainevent.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS MIX",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-mix.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS NEWS",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-news.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYSPORTS PREMIER",image: "https://overseer.blackboxsys.net/images/png/uk-skysports-epl.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=kmf743jnd",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=kmf743jnd",referer: "https://ufac4.net","embed": "true"
 },
 {name: "SKYBOX OFFICE",image: "https://overseer.blackboxsys.net/images/png/uk-skyboxoffice.png",
-url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skyboxoffice&api_key=hmcb4rf66f",referer: "https://dooball66.com/","embed": "true"
+url: "https://embed-dev.blackboxsys.net/player.php?channel=uk-skyboxoffice&api_key=hmcb4rf66f",referer: "https://ufac4.net","embed": "true"
 },
 ]
 }
