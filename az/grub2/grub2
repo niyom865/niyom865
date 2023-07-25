@@ -5,6 +5,12 @@
 "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
 "url": "",
 "groups": [
+  {
+"name": "📺 RESET",
+"image": "https://raw.githubusercontent.com/niyom865/sx/main/66/reset.jpg",
+"url": "https://pastebin.com/raw/Vuiv7uK3",
+"import": false
+},
 
 {
 "name": "TV",
